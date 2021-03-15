@@ -1,8 +1,16 @@
-# thai_map_factory
+# Thai Map Factory
 
 Using Google Maps API to locate factories in Thailand
 
 ## Motivation
+
+1. Broadly, to see how _data_ can be used to address air pollution.
+2. To obtain factory coordinates in Thailand.
+3. To see data contained in Pollutant Release and Transfer Register and see what we can start with.
+
+### Outcome
+
+To see if we can build a proxy PRTR dataset for Thailand.
 
 ### Phase 1
 
@@ -33,6 +41,10 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.867052
 - key=YOUR_API_KEY
 - type=factory
 - keyword=chemical
+
+### Coordinates for Thai Cities
+
+For initial prototyping, this is a small 16 city sample from LatLong.net
 
 ## EDA
 
