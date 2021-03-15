@@ -20,6 +20,17 @@ To see if we can build a proxy PRTR dataset for Thailand.
 
 ### Documentation
 
+1. Using API Keys ([link](https://developers.google.com/maps/documentation/places/web-service/get-api-key))
+2. Getting started with Google Maps Platform ([link](https://developers.google.com/maps/gmp-get-started#api-key))
+3. Place Search ([link](https://developers.google.com/maps/documentation/places/web-service/search))
+4. Google Cloud Platform [link](https://console.cloud.google.com/)
+
+### Other Resources
+
+1. Google Maps Data API YouTube clip from [Stevesie Data](https://www.youtube.com/watch?v=tj6vjmqQTvg)
+2. Stevesie Google Maps Data Scraping API ([wrapper](https://stevesie.com/apps/google-maps-api))
+3. Stevesie Google Maps Nearby Place Search - Data API Endpoint ([link](https://stevesie.com/apps/google-maps-api/nearby-place-search))
+
 ### Python
 
 ### R
@@ -41,10 +52,11 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.867052
 - key=YOUR_API_KEY
 - type=factory
 - keyword=chemical
+- radius (in meters; 50k max)
 
 ### Coordinates for Thai Cities
 
-For initial prototyping, this is a small 16 city sample from LatLong.net
+For initial prototyping, this is a small 16 city sample from [LatLong.net](https://www.latlong.net/category/cities-221-15.html)
 
 ## EDA
 
