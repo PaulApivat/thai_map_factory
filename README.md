@@ -32,6 +32,7 @@ To see if we can build a proxy PRTR dataset for Thailand.
 3. Stevesie Google Maps Nearby Place Search - Data API Endpoint ([link](https://stevesie.com/apps/google-maps-api/nearby-place-search))
 4. Most comprehensive Lat/Long info for Thailand courtesy of [Spicydog](https://github.com/spicydog/thailand-province-district-subdistrict-zipcode-latitude-longitude)
 5. Thai Zip Code latitude and longitude JSON [link](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude/blob/master/data.json)
+6. Thai Lat / Long data in xlsx [data.go.th](https://data.go.th/th/dataset/item_c6d42e1b-3219-47e1-b6b7-dfe914f27910)
 
 ### Python
 
