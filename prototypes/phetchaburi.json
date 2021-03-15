@@ -1,0 +1,775 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwJFoFYeEvbhIolswWFYyC5MsHrdNQ11zru0ec5M35Ec90WpIcdHuS-KB0PL2G6I-sCeGi27VxttX6Hq-A9aaxi628u7YzzAJEH9ez8_SmB9tkYdYmlgYXAlB5sR1nVeWRlExC2xLo0YxkMb-Pgqe_K-9oAtQTZolGoNYsQfIe0EuHArPyk9IytCWe8WqWpwS5LHLfRWpLy_qZ9n9MEZ4wGZN88mNf8KnTTiiXJRR68KUgPshajmDl7xMNFIqjXC4KRTwqZdCmrrLLijXUtSO_xLScnyfAQGdXMOZA3AKMt3YOrUm5wCjihvoWXLHUrRC-RHU7jIDMH4Lj7ry-HE3Clu9H_oeCuRvxYqNNJfCMonFiVBSNwwrDy01NfecsI9Uy9Ce8NQyZ0-HdSlgNQKtSOqlFqebqnJcIBSugE2-gGJlzWiUaz6GXl1CL8TVaCuhQvNrA",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5625339,
+                "lng" : 100.1694154
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.56387612989272,
+                   "lng" : 100.1707628298927
+                },
+                "southwest" : {
+                   "lat" : 13.56117647010728,
+                   "lng" : 100.1680631701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เคมมิสทรี จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 301,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115543263090869602398\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIidjv9y10Qs-S17lSgMOROPo92It9Bo-ZVUv_DD1Veuoe2uRaHuiEVsi9LqnFtvGBc2xlOTT5nk2voO2fY_fzQK8FRMPvBCp0RaVlL6j61JnjGSrEnuMpsR_Bvea6xrUyTL209t5mNt-JeIE-VXLyig7-Q4C8ravG9TSHqFupHdTKC",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJ2yKUMdm84jAR0Q4_1EjgSX8",
+          "plus_code" : {
+             "compound_code" : "H579+2Q Chai Mongkhon, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H579+2Q"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ2yKUMdm84jAR0Q4_1EjgSX8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "13/3 หมู่6 ถนนบ้านแพ้ว Chai Mongkhon, อำเภอเมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.523596,
+                "lng" : 100.197274
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.52507802989272,
+                   "lng" : 100.1984065798927
+                },
+                "southwest" : {
+                   "lat" : 13.52237837010728,
+                   "lng" : 100.1957069201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "D. Thai Chemical Industry Company Limited",
+          "place_id" : "ChIJ--xZIyHG4jARMNlObxfx6C8",
+          "plus_code" : {
+             "compound_code" : "G5FW+CW Bang Krachao, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G5FW+CW"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ--xZIyHG4jARMNlObxfx6C8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "39/119 Moo2 Samut Sakhon Industrial Estate, Rama II Raod, Tambol Bang Kachao, Amphoe Mueang, Samut Sakhon, 74000"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5226387,
+                "lng" : 100.149206
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.52400657989272,
+                   "lng" : 100.1508515798927
+                },
+                "southwest" : {
+                   "lat" : 13.52130692010728,
+                   "lng" : 100.1481519201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท ฟลุสสิคเคม จำกัด",
+          "opening_hours" : {},
+          "place_id" : "ChIJW5-gbV7P4jARYTCWfJV8TqY",
+          "plus_code" : {
+             "compound_code" : "G4FX+3M Bang Tho Rat, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G4FX+3M"
+          },
+          "rating" : 0,
+          "reference" : "ChIJW5-gbV7P4jARYTCWfJV8TqY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "8/9 ถนนวัดเกตุมฯ ซอย 1 Bang Tho Rat, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.4949267,
+                "lng" : 100.1916896
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.49625892989272,
+                   "lng" : 100.1930125798927
+                },
+                "southwest" : {
+                   "lat" : 13.49355927010728,
+                   "lng" : 100.1903129201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท ท็อปสตาร์ เคมิคอล อินดัสทรี",
+          "place_id" : "ChIJ_3P4M8DI4jARYTiwHj7pKXs",
+          "plus_code" : {
+             "compound_code" : "F5VR+XM Ban Bo, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52F5VR+XM"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ_3P4M8DI4jARYTiwHj7pKXs",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "สค.2020 Ban Bo, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5347226,
+                "lng" : 100.1672698
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.53614377989272,
+                   "lng" : 100.1687770298927
+                },
+                "southwest" : {
+                   "lat" : 13.53344412010728,
+                   "lng" : 100.1660773701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท สยามโกลบอล เคมิคอล จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 727,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101302918479749059503\"\u003ePrasong Khetkit\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJUlxDpoJ1TDEits7SLHC6R-R-Q9v7Vnx_nMUZhnrThOmylyBg2ZpsZvJGKnr2hA0czsp498duahZQ1IkVG7JrpTCWx1sG91A6nkLtNBk52WwOKPV495rxSzkhSux1_-MhCLBlfVV8uYe4Tbw0kA90mVQuo5ngxsXHFNx76GiKGuoZW",
+                "width" : 1280
+             }
+          ],
+          "place_id" : "ChIJQePyHOPF4jARyKwkd20B87Q",
+          "plus_code" : {
+             "compound_code" : "G5M8+VW Chai Mongkhon, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G5M8+VW"
+          },
+          "rating" : 4,
+          "reference" : "ChIJQePyHOPF4jARyKwkd20B87Q",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "22/2 หมู่ ที่ 1 ถนน หลวง 3097 กม .2.3, Chai Mongkhon, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.540735,
+                "lng" : 100.345682
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.54198657989272,
+                   "lng" : 100.3470326798927
+                },
+                "southwest" : {
+                   "lat" : 13.53928692010728,
+                   "lng" : 100.3443330201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Nichem Taiwan Technology Co.,Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJB2MdtZu54jARF6ZJscP_p-k",
+          "plus_code" : {
+             "compound_code" : "G8RW+77 Khok Kham, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G8RW+77"
+          },
+          "rating" : 0,
+          "reference" : "ChIJB2MdtZu54jARF6ZJscP_p-k",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "ถนน เจษฎาวิถี Khok Kham, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5480584,
+                "lng" : 100.2201239
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.54929342989272,
+                   "lng" : 100.2215441298927
+                },
+                "southwest" : {
+                   "lat" : 13.54659377010728,
+                   "lng" : 100.2188444701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท สยาม ทากามัตสึ เคมีคอล จำกัด",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 4000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103494031398942132796\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJ79MepBpAUuYEjjxwGPjugzOHsaNJfE5Q6U0OIw_6pYJEezYcpTTpN280a55JZTWHHqdFhKnk1icNS1mwWRHXKj5beEVYqA45PRnO5FnC02YYCiT1FhP6DFQ-VnvVQDbQIfvSqBlioC8MK9MNdhzsq2PljIvIG12hv3w-OCkWaIPRe",
+                "width" : 6000
+             }
+          ],
+          "place_id" : "ChIJE4atO_S84jARM61Z9N874lI",
+          "plus_code" : {
+             "compound_code" : "G6XC+62 Bang Krachao, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G6XC+62"
+          },
+          "rating" : 0,
+          "reference" : "ChIJE4atO_S84jARM61Z9N874lI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "66 หมู่2 39 Thailand Route 35, Bang Krachao, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5505025,
+                "lng" : 100.261434
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.55186532989272,
+                   "lng" : 100.2628036298927
+                },
+                "southwest" : {
+                   "lat" : 13.54916567010728,
+                   "lng" : 100.2601039701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Miracle Chemical Industry Co., Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4128,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112369979001376666308\"\u003eAnchalee Na nagara\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKUz85eOBXQDFzv7VZYhV_LAw0dvhV3Md15KNbsThQ4N1oK4zp4KHCws0Z2N1RwFJKAoQxB_RQh16ySb0csSQOjd8hzlD9KUDzGSmO3buUmL2-OG41lqXZuHB5dLlaKqAI89g8VQZeY-tysCTFOfMDi1MPcUxVKMv3ayb6HyT_Q4CUP",
+                "width" : 3096
+             }
+          ],
+          "place_id" : "ChIJ4wXSlHe44jARMeWTln0ciaw",
+          "plus_code" : {
+             "compound_code" : "H726+6H Tha Chin, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H726+6H"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ4wXSlHe44jARMeWTln0ciaw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "48/118 Rama II Frontage Rd, Tha Chin, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5554141,
+                "lng" : 100.2355516
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.55668847989272,
+                   "lng" : 100.2368966798927
+                },
+                "southwest" : {
+                   "lat" : 13.55398882010727,
+                   "lng" : 100.2341970201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท ไทย ซี ซิง จำกัด",
+          "place_id" : "ChIJaSPSCZLH4jAR-fLLau-M8dw",
+          "plus_code" : {
+             "compound_code" : "H64P+56 Tha Sai, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H64P+56"
+          },
+          "rating" : 1,
+          "reference" : "ChIJaSPSCZLH4jAR-fLLau-M8dw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Tha Sai, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.525162,
+                "lng" : 100.1472681
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.52651377989272,
+                   "lng" : 100.1486647298927
+                },
+                "southwest" : {
+                   "lat" : 13.52381412010728,
+                   "lng" : 100.1459650701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "รถขนส่ง สารเคมี วัตถุอันตราย",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 810,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108529103245702302998\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKiKM4b6zcvZlyodseSV5iwpjZaFvyRjaQQe5cMo_EaBSDwR7eS2pGNR0A0ureidFXX8u5v2DmIig8mCngVYIm8yo8CjJ3PC25dKuPlW3SG8bepkD3ZOkmAM9HDnpQCshm0YqmeXIU_bN1lfSnyVO2B4_A397mIJBTGYgQDoc9wxwIZ",
+                "width" : 1440
+             }
+          ],
+          "place_id" : "ChIJjX7vr-rF4jARTONWbwKjh_w",
+          "plus_code" : {
+             "compound_code" : "G4GW+3W Bang Tho Rat, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G4GW+3W"
+          },
+          "rating" : 0,
+          "reference" : "ChIJjX7vr-rF4jARTONWbwKjh_w",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "84 หมู่1 ถนนพระรามที่ 2, Bang Tho Rat, เมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5505385,
+                "lng" : 100.2273458
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.55202582989272,
+                   "lng" : 100.2286602798927
+                },
+                "southwest" : {
+                   "lat" : 13.54932617010728,
+                   "lng" : 100.2259606201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "V-Powder Tech",
+          "place_id" : "ChIJe1bNfbrH4jARANHr7sx1_ks",
+          "plus_code" : {
+             "compound_code" : "H62G+6W Tha Sai, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H62G+6W"
+          },
+          "rating" : 5,
+          "reference" : "ChIJe1bNfbrH4jARANHr7sx1_ks",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "1/58 ตำบล ท่าทราย Tambon Tha Sai, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.533068,
+                "lng" : 100.163215
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.53445067989272,
+                   "lng" : 100.1645803798927
+                },
+                "southwest" : {
+                   "lat" : 13.53175102010728,
+                   "lng" : 100.1618807201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เจ แอล เชมโทนิค จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 960,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110679652027716634834\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwL18cPOvSHnubCfc6V24J2rQdyKkrclNpO-bznqyY5u46t6diUnwP8rpdXiZoeiIIghaqHUfk18B5Ec-x5lXxLcQN2OUFFg48U00W02S9qxjc1F9vclD6FdD4TJ8vbHPrCK8jS_GrNTExfMun2lbvMuYjQYStGroPg5iHAkQ-K07GyW",
+                "width" : 720
+             }
+          ],
+          "place_id" : "ChIJn-s4-mW44jARDczjMWZW6WQ",
+          "plus_code" : {
+             "compound_code" : "G5M7+67 Chai Mongkhon, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G5M7+67"
+          },
+          "rating" : 5,
+          "reference" : "ChIJn-s4-mW44jARDczjMWZW6WQ",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4,
+          "vicinity" : "หมู่ที่ 1 9/9 ตำบลชัยมงคล Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.7212234,
+                "lng" : 99.9098915
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.72263892989272,
+                   "lng" : 99.91127527989272
+                },
+                "southwest" : {
+                   "lat" : 12.71993927010728,
+                   "lng" : 99.90857562010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "อ่างหินการเกษตร",
+          "opening_hours" : {},
+          "place_id" : "ChIJv6FliEoD_TARX6mPdp0vTGQ",
+          "plus_code" : {
+             "compound_code" : "PWC5+FX Sam Phraya, Cha-am District, Phetchaburi",
+             "global_code" : "7M4XPWC5+FX"
+          },
+          "rating" : 0,
+          "reference" : "ChIJv6FliEoD_TARX6mPdp0vTGQ",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "12 เลขที่ 82 Sam Phraya, Cha-am District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5504639,
+                "lng" : 100.227089
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.55195697989272,
+                   "lng" : 100.2284020298927
+                },
+                "southwest" : {
+                   "lat" : 13.54925732010728,
+                   "lng" : 100.2257023701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท อั๊คโซ่ โนเบล เพ้นท์ส (ประเทศไทย) จำกัด สาขาโค้ทติ้ง สมุทรสาคร",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104738346330532061771\"\u003eบริษัท วี.เพาเดอร์เทค จำกัด\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKRb8dme4GFUlxdLeAYKmizW5BBXoSy3N2qAMRb9sCRgASYjvj7fyF5u5It6DB41Rl1-9fB2JvWQaWBgdXswOzNPN52A14sfHGua36ZBaaiW7zeFRWDrg3Tg8w1NHnBp6pM4LIJOMbIg3DMm9KEkyIMfaislJGrGbkLG7S-1LdB2gqZ",
+                "width" : 5184
+             }
+          ],
+          "place_id" : "ChIJ5byu8G644jARW0t2fgUZ6vI",
+          "plus_code" : {
+             "compound_code" : "H62G+5R Tha Sai, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H62G+5R"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJ5byu8G644jARW0t2fgUZ6vI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 6,
+          "vicinity" : "1/58 Tha Sai, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5580691,
+                "lng" : 100.3810062
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.55936517989272,
+                   "lng" : 100.3823676298927
+                },
+                "southwest" : {
+                   "lat" : 13.55666552010728,
+                   "lng" : 100.3796679701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Matrix Chemical Enterprise Co., Ltd.",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 397,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113855245118417542053\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI9KQXkgDsXwkXFFtN0PunztfFN_kJl9IaZUFneJJ7hSs4oT7D_H5twHKUuwX7aCWwgJQwfWhXwLSLtfCBWlA8E2JV1Z8V9tUZ9x7pG9JDEx3UMXjjdhwqYBVCVo74apE0Xhneg565uHo1xhqoc5v4ns_Lx8ovR43sbNOaMGxWqYTLD",
+                "width" : 706
+             }
+          ],
+          "place_id" : "ChIJRykoJOG74jARP-fK4BWahM0",
+          "plus_code" : {
+             "compound_code" : "H95J+6C Phanthai Norasing, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H95J+6C"
+          },
+          "rating" : 0,
+          "reference" : "ChIJRykoJOG74jARP-fK4BWahM0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "99, 228 หมู่2 Phanthai Norasing, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.510275,
+                "lng" : 100.15329
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.51161977989272,
+                   "lng" : 100.1545663798927
+                },
+                "southwest" : {
+                   "lat" : 13.50892012010728,
+                   "lng" : 100.1518667201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "วินคลีนโปร",
+          "photos" : [
+             {
+                "height" : 673,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111502053841700331491\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLkQxFFQ2so3FptipHiQNeRbI_zmh5Ee9Bal4znsy1E_SA5c18ZH0NivnwrVn-54nJJcSn_UddcXNtcMRCRDT6LjfSHuxAfhkNs5z2a1DPSIDz-WpkenfoJvzFaBqkGQTMDSzm2W5F5vFm10tHo_vs5PYYIjutJZ1C24D7PfazZwaGy",
+                "width" : 1200
+             }
+          ],
+          "place_id" : "ChIJxw1r3nvP4jARAtHHzOWU1Sg",
+          "plus_code" : {
+             "compound_code" : "G563+48 Bang Tho Rat, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G563+48"
+          },
+          "rating" : 0,
+          "reference" : "ChIJxw1r3nvP4jARAtHHzOWU1Sg",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "35/17 หมู่6 ถนนพระราม2 บางโทรัด Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.4799108,
+                "lng" : 100.0646896
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.48107882989272,
+                   "lng" : 100.0660904298927
+                },
+                "southwest" : {
+                   "lat" : 13.47837917010728,
+                   "lng" : 100.0633907701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "โรงงานบริษัท คอวินอินดัสทรี่ จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115117243407739555976\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKxSns6ZvEQOUL70mpii4WONoV2P0azYN_hLIi3Gvo4-cBJztjekOnR1e4QTTANbMSa0oRTxBOv-aqolO9Nvp0L0AB9UcHpR1o8HWxGxUNLDzt8Vt0zs291pf-xMKID4z9LYmwZf4pJt8L2zXy1nW1eZnRP8P3_lAx5SizxAKHxi5yg",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJvafftMzR4jARLVq4Ihj8USw",
+          "plus_code" : {
+             "compound_code" : "F3H7+XV Na Khok, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52F3H7+XV"
+          },
+          "rating" : 1,
+          "reference" : "ChIJvafftMzR4jARLVq4Ihj8USw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "27 8 Na Khok, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5283361,
+                "lng" : 99.8134165
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.52969002989272,
+                   "lng" : 99.81476557989274
+                },
+                "southwest" : {
+                   "lat" : 13.52699037010728,
+                   "lng" : 99.81206592010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "พัน ชุณหคันธรส",
+          "place_id" : "ChIJrTK7x6wo4zARpvo3Seyk5hs",
+          "rating" : 0,
+          "reference" : "ChIJrTK7x6wo4zARpvo3Seyk5hs",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "57 อำเภอเมือง Mueang Ratchaburi"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5194002,
+                "lng" : 100.1654598
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.52080842989272,
+                   "lng" : 100.1667782298927
+                },
+                "southwest" : {
+                   "lat" : 13.51810877010728,
+                   "lng" : 100.1640785701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "NCI",
+          "opening_hours" : {},
+          "place_id" : "ChIJtfcoxVXP4jARlQfmFKUEKUA",
+          "plus_code" : {
+             "compound_code" : "G598+Q5 Bang Tho Rat, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52G598+Q5"
+          },
+          "rating" : 0,
+          "reference" : "ChIJtfcoxVXP4jARlQfmFKUEKUA",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Bang Tho Rat, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.4778487,
+                "lng" : 99.67952269999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.47915437989272,
+                   "lng" : 99.68070247989272
+                },
+                "southwest" : {
+                   "lat" : 13.47645472010728,
+                   "lng" : 99.67800282010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "โรงงาน อเมซอน อะโกร จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJQSdcvRUx4zARJ_vJyqEmeRs",
+          "plus_code" : {
+             "compound_code" : "FMHH+4R Ang Hin, Pak Tho District, Ratchaburi",
+             "global_code" : "7M5XFMHH+4R"
+          },
+          "rating" : 0,
+          "reference" : "ChIJQSdcvRUx4zARJ_vJyqEmeRs",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "33 8 Ang Hin, Pak Tho District"
+       }
+    ],
+    "status" : "OK"
+ }
