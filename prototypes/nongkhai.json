@@ -1,0 +1,781 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwLX1sEfd2W4dCMB1O9eQMpT997Aa_frvGlT8ND-fRHqoTcWlvcVQF7ZAL8lg1_pjWrntxXxL42I_lOUAXO0PwPHUn3-U-2NPHbeHUASoIyAKX5dfxlrhqV-zPUFOHzEmckvapwODmtBPE7fwWVCrztaXUfGCNu_NDTHww3dGlOE_hJP9XCSZe0dP_kfVcdMzxV3jCyCPYHv_Gne1JkTlR3kTQxWFqSUkHz_OTNrgeStEnK9lf8TTHb3G4OwiveKgaEcAkpcL2Y8zt8wy4ApSYQFyIBWaOOXY9KYNtu66W1yINFKZxSM7ZIrhpBybUCpEOQvYrFxINzh2YkOhMOXJQ7TgDDrTPilzD5V2mi7f4ApmUT0NzAO0HFX9cYjvqDaVb71zkMF-JyBGqvsdSmPWuSmt3NuosoOmJZg40du1_p0QHoa40jmxtoQU_Cd0K-NkVWgLw",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.9685466,
+                "lng" : 102.6139182
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.96996732989272,
+                   "lng" : 102.6153001298927
+                },
+                "southwest" : {
+                   "lat" : 17.96726767010728,
+                   "lng" : 102.6126004701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "VKK Industrial Co., Ltd",
+          "place_id" : "ChIJe3wyTHxoJDERtBUbjEyFDIo",
+          "plus_code" : {
+             "compound_code" : "XJ97+CH Vientiane, Laos",
+             "global_code" : "7P94XJ97+CH"
+          },
+          "rating" : 0,
+          "reference" : "ChIJe3wyTHxoJDERtBUbjEyFDIo",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Saylom Rd, Vientiane"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.4373465,
+                "lng" : 102.7751166
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.43871932989272,
+                   "lng" : 102.7764957298927
+                },
+                "southwest" : {
+                   "lat" : 17.43601967010728,
+                   "lng" : 102.7737960701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "โรงงานปุ๋ย",
+          "place_id" : "ChIJXa7EYDGdIzER_oxs6On0g_Y",
+          "plus_code" : {
+             "compound_code" : "CQPG+W2 Mu Mon, Mueang Udon Thani District, Udon Thani",
+             "global_code" : "7P94CQPG+W2"
+          },
+          "rating" : 0,
+          "reference" : "ChIJXa7EYDGdIzER_oxs6On0g_Y",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Mu Mon, Mueang Udon Thani District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.9077816,
+                "lng" : 102.725418
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.90919427989272,
+                   "lng" : 102.7267516298927
+                },
+                "southwest" : {
+                   "lat" : 17.90649462010728,
+                   "lng" : 102.7240519701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "5N Plus Laos",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107931236385005951065\"\u003eQuyết Hồ Sỹ\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKrU2mRCCqby4p-BmcYjbnslRU0mjT-h97BVVey9sCgKDxq_9068nz9lTLXN0zOkCkwJ_xgZ0yjB0ZPwjWsO8XPTggTAIvcwGw82zmcaOm2F3Dgyuq45Wi8QeGfbscxRdwjPs-JHqWlFrOsuVya74AfdDj_4zPEUFIZHczx9DpZFBki",
+                "width" : 2448
+             }
+          ],
+          "place_id" : "ChIJLwgsMuNjJDERkbSpj7I2ONc",
+          "plus_code" : {
+             "compound_code" : "WP5G+45 Dongphosy, Laos",
+             "global_code" : "7P94WP5G+45"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJLwgsMuNjJDERkbSpj7I2ONc",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 6,
+          "vicinity" : "Dongphonehae Village"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.4360917,
+                "lng" : 102.7927265
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.43749927989272,
+                   "lng" : 102.7941087798927
+                },
+                "southwest" : {
+                   "lat" : 17.43479962010728,
+                   "lng" : 102.7914091201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "หจก. ไอ เค้น ไซเอนทิฟิค",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1484,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104957729614863267858\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJXJre1jjjsHeYCpaN68u6FayNCXJQSD11y2BBiHd4DsOMuQ6nhzluVjhso7Fr8CUG9faQpQKoLVdr2jRVVToPrOY1MzB1DBKJ6D2bvYct8LgcdbdMqLAdL6CT9Sz5ddkVg34G0Qn6GuIZmyMpDM7JDjdD86NaQsI9lVnmGHW4BgpRs",
+                "width" : 1652
+             }
+          ],
+          "place_id" : "ChIJq-o5IfZ2IzERgslISH1OEpI",
+          "plus_code" : {
+             "compound_code" : "CQPV+C3 Udon Thani, Mueang Udon Thani District, Udon Thani",
+             "global_code" : "7P94CQPV+C3"
+          },
+          "rating" : 5,
+          "reference" : "ChIJq-o5IfZ2IzERgslISH1OEpI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "หมู่ที่ 7 420/3 ถนน เลี่ยงเมือง Mueang Udon Thani District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.0218342,
+                "lng" : 102.7442348
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.02309662989272,
+                   "lng" : 102.7455851298927
+                },
+                "southwest" : {
+                   "lat" : 18.02039697010728,
+                   "lng" : 102.7428854701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "老挝石油化工股份有限公司",
+          "opening_hours" : {},
+          "place_id" : "ChIJpX353S5fJDERVLX5l2bGaxY",
+          "plus_code" : {
+             "compound_code" : "2PCV+PM Vientiane, Laos",
+             "global_code" : "7PC42PCV+PM"
+          },
+          "rating" : 0,
+          "reference" : "ChIJpX353S5fJDERVLX5l2bGaxY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Unnamed Road"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.662091,
+                "lng" : 103.152618
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.66310482989272,
+                   "lng" : 103.1541658298927
+                },
+                "southwest" : {
+                   "lat" : 17.66040517010727,
+                   "lng" : 103.1514661701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บุญร่วมการเกษตร",
+          "photos" : [
+             {
+                "height" : 1536,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108469082505312665250\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI3o37esq55gJ0AAh_2OcTyDIym_K6MeKTKGhL1tDgmHDAlPWRZinqTz0MgaI1r-wOe0U3A3S0gSOFVACLhXdvNXrdId7246dlWGWwBF8YAYAaRxmqEhrzI1RGCOQqS2NPQkOEMPRH-GqcOeIKST77pcwknuIot3FvnCWGLAd56akom",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJqUM2nnKfJDER_QrBnqsd6nc",
+          "plus_code" : {
+             "compound_code" : "M563+R2 Na Kham, Ban Dung District, Udon Thani",
+             "global_code" : "7P95M563+R2"
+          },
+          "rating" : 0,
+          "reference" : "ChIJqUM2nnKfJDER_QrBnqsd6nc",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "188 หมู่ 9 นาคำ บ้านดุง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.0533983,
+                "lng" : 102.8541045
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.05438925,
+                   "lng" : 102.8552825798927
+                },
+                "southwest" : {
+                   "lat" : 18.05042545000001,
+                   "lng" : 102.8525829201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ໂຮງງານຊີມັງ BMC",
+          "place_id" : "ChIJtaxO43X1JDERQgl6sWxkjxw",
+          "plus_code" : {
+             "compound_code" : "3V33+9J Ban Woen, Laos",
+             "global_code" : "7PC43V33+9J"
+          },
+          "rating" : 0,
+          "reference" : "ChIJtaxO43X1JDERQgl6sWxkjxw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Laos"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.0987363,
+                "lng" : 102.6017921
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.09989302989272,
+                   "lng" : 102.6030096798927
+                },
+                "southwest" : {
+                   "lat" : 18.09719337010728,
+                   "lng" : 102.6003100201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ໂຮງງານ ຊີໂນໄຣໂດ",
+          "place_id" : "ChIJxdkLFwNDJDER9M-AIF2rkRE",
+          "plus_code" : {
+             "compound_code" : "3JX2+FP Vientiane, Laos",
+             "global_code" : "7PC43JX2+FP"
+          },
+          "rating" : 0,
+          "reference" : "ChIJxdkLFwNDJDER9M-AIF2rkRE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Vientiane"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.8821119,
+                "lng" : 102.7535841
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.88337452989272,
+                   "lng" : 102.7549780298927
+                },
+                "southwest" : {
+                   "lat" : 17.88067487010728,
+                   "lng" : 102.7522783701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัทยูนิไลฟ์อินเตอร์เนชั่นแนล จำกัด (คลังสินค้าหนองคาย)",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJcUSvn7ZjJDERdmuwzSuNBkM",
+          "plus_code" : {
+             "compound_code" : "VQJ3+RC Nai Mueang, Mueang Nong Khai District, Nong Khai",
+             "global_code" : "7P94VQJ3+RC"
+          },
+          "rating" : 0,
+          "reference" : "ChIJcUSvn7ZjJDERdmuwzSuNBkM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Nai Mueang, Mueang Nong Khai District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.9148267,
+                "lng" : 102.765374
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.91621967989272,
+                   "lng" : 102.7666120798927
+                },
+                "southwest" : {
+                   "lat" : 17.91352002010728,
+                   "lng" : 102.7639124201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ບໍລິສັດນະຄອນຫຼວງອຸດສາຫະກຳເຫຼັກ",
+          "opening_hours" : {},
+          "place_id" : "ChIJDyRG10JhJDERHdfHHyEKPfM",
+          "plus_code" : {
+             "compound_code" : "WQ78+W4 Dongphosy, Laos",
+             "global_code" : "7P94WQ78+W4"
+          },
+          "rating" : 0,
+          "reference" : "ChIJDyRG10JhJDERHdfHHyEKPfM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "ບ້ານ ຊຽງສ້ຽວ"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.432059,
+                "lng" : 102.7859174
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.43331242989273,
+                   "lng" : 102.7873408798927
+                },
+                "southwest" : {
+                   "lat" : 17.43061277010728,
+                   "lng" : 102.7846412201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บ.ยูนิไลฟ์ สาขาอุดรธานี",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJ70ZRjkidIzERrmN30E9uXLI",
+          "plus_code" : {
+             "compound_code" : "CQJP+R9 Udon Thani, Mueang Udon Thani District, Udon Thani",
+             "global_code" : "7P94CQJP+R9"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ70ZRjkidIzERrmN30E9uXLI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "เลข ที่ 399/ เมือง ต หนองบัว อ เมือง, 175/1 ซอย ถ.รอบหนองบัว ต.หมากแข้ง Mueang Udon Thani District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.1649378,
+                "lng" : 102.5012964
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.16617997989272,
+                   "lng" : 102.5025985298927
+                },
+                "southwest" : {
+                   "lat" : 18.16348032010728,
+                   "lng" : 102.4998988701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Lao Midori Safety Shoes Co., Ltd.",
+          "opening_hours" : {},
+          "place_id" : "ChIJu5tMAFxGJDERR7ehi7fDwLk",
+          "plus_code" : {
+             "compound_code" : "5G72+XG Ban Dông, Laos",
+             "global_code" : "7PC45G72+XG"
+          },
+          "rating" : 5,
+          "reference" : "ChIJu5tMAFxGJDERR7ehi7fDwLk",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Ban Dông"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.9952668,
+                "lng" : 102.6169193
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.99649277989273,
+                   "lng" : 102.6184428798927
+                },
+                "southwest" : {
+                   "lat" : 17.99379312010728,
+                   "lng" : 102.6157432201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "SV Lao Chemical Exp- Imp Co, ltd",
+          "photos" : [
+             {
+                "height" : 2268,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103979796741388941603\"\u003eTweeruch Taekimchai\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJwEh0V6EZHlrSUvfeTf5PzA03mHxxUpsd7ZYWIgFzBtyAxc38a4I1xt4swZlIR6KBvbJl_pPZgNqstVLtUBWWETjuDzXKJgyeAph64YRjs66cpLTLI1Mu7Ck_Yl-IiR_i2KiS5kJceRbwZ1WWIPBNhms5yEQJ3OTBUND7h1EmjXliG",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJQ_oPRAloJDERAaFHc0ClrWI",
+          "plus_code" : {
+             "compound_code" : "XJW8+4Q Vientiane, Laos",
+             "global_code" : "7P94XJW8+4Q"
+          },
+          "rating" : 5,
+          "reference" : "ChIJQ_oPRAloJDERAaFHc0ClrWI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 6,
+          "vicinity" : "Vientiane"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.0543631,
+                "lng" : 102.8450515
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.05564432989272,
+                   "lng" : 102.8465309798927
+                },
+                "southwest" : {
+                   "lat" : 18.05294467010728,
+                   "lng" : 102.8438313201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ໂຮງງານສີຂຽວສີ່ງແວດລ້ອມ ຜະລິດເມັດຢາງ",
+          "opening_hours" : {},
+          "place_id" : "ChIJday9TXL1JDERelf8JKshoX8",
+          "plus_code" : {
+             "compound_code" : "3R3W+P2 Ban Houaxiang, Laos",
+             "global_code" : "7PC43R3W+P2"
+          },
+          "rating" : 0,
+          "reference" : "ChIJday9TXL1JDERelf8JKshoX8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Laos"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.208394,
+                "lng" : 103.1839632
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.20970942989272,
+                   "lng" : 103.1853023298927
+                },
+                "southwest" : {
+                   "lat" : 18.20700977010727,
+                   "lng" : 103.1826026701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ก เกษตร",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104543101046663850405\"\u003eกฤตภณ หลานอา\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLdZ-YULdQHyBrfZWbWx_2hOF79UUlLIatcpQ4aI_shNeFXO0d84QucjXbv12NXvSawyvZNWuebNevMBEQwW0P0tvGCzikUt5V4nWvR9ILg0DFQVIwzOZ8KNL966VjYPfK_Q-aLg4ybzufVNqRDywwbpvzX_3airwcdYZx0WmZmZdVr",
+                "width" : 2448
+             }
+          ],
+          "place_id" : "ChIJowzgrYPdJDER65LHgpCO_Hk",
+          "plus_code" : {
+             "compound_code" : "655M+9H Rattanawapi, Rattanawapi District, Nong Khai",
+             "global_code" : "7PC5655M+9H"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJowzgrYPdJDER65LHgpCO_Hk",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4,
+          "vicinity" : "449 Moo 11, Rattanawapi District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.0148087,
+                "lng" : 102.7266183
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.01606602989272,
+                   "lng" : 102.7279398298927
+                },
+                "southwest" : {
+                   "lat" : 18.01336637010727,
+                   "lng" : 102.7252401701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Lao Chemical Trade Import-Export",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1080,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115854326267372624188\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJWZEKh7a-FISGuFygTW1IcAk01aQ3fEhSou0e9C4fqXmTt0MeS3Wp4tKd6IQ63SxRvZrLxbllN9ZqgN3_NdJouJC0yiHT4h7l_Wg0Icgs4wkL38_K460jij53i5TAPozvXgUhLkEgtrIoJiTxbkqDMqzmVof6m4mDAFOGHwn6QSA4U",
+                "width" : 1440
+             }
+          ],
+          "place_id" : "ChIJf7KXCyBfJDERCpDzIGhJl1U",
+          "plus_code" : {
+             "compound_code" : "2P7G+WJ Vientiane, Laos",
+             "global_code" : "7PC42P7G+WJ"
+          },
+          "rating" : 5,
+          "reference" : "ChIJf7KXCyBfJDERCpDzIGhJl1U",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Khoksaat Road"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.7002311,
+                "lng" : 102.442522
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.70167122989272,
+                   "lng" : 102.4439085298927
+                },
+                "southwest" : {
+                   "lat" : 17.69897157010728,
+                   "lng" : 102.4412088701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ร้านคนเห็นการเกษตร",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102281834559436533116\"\u003eคมกริช สิงห์ด้วง\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIWKn5iY13rtgRTdJNEr3gL1QfnqWC_4Jr3YsfpFh1vnFfyWSfvtwSpB7spnXWC2oPrUKPkghVzcHXnyD9OjRGg4Dt2kQhw6Qed3Yv7Qwo0377ZQkqjb_x6GKde95jvyGz1Fohu2hb_wSBjfSps1bvzHPcgCMZo19dQ6Dk5INr4hgk",
+                "width" : 2448
+             }
+          ],
+          "place_id" : "ChIJhRmNXBt1JDER4JRJ2-QKpC4",
+          "plus_code" : {
+             "compound_code" : "PC2V+32 Ban Phue, Ban Phue District, Udon Thani",
+             "global_code" : "7P94PC2V+32"
+          },
+          "rating" : 5,
+          "reference" : "ChIJhRmNXBt1JDER4JRJ2-QKpC4",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "249 Ban Phue, Ban Phue District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.016453,
+                "lng" : 102.7242631
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.01779512989273,
+                   "lng" : 102.7256346798927
+                },
+                "southwest" : {
+                   "lat" : 18.01509547010728,
+                   "lng" : 102.7229350201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "lao chemical products trade import - export Co., ltd",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2976,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111381660260908854777\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwK7ArefPa64fh3dtLVmn5k2dWCfkUfyRmvTv3J6amnajvLiznmdlHy6iVJebzp-YY6MsZx2cnnAvY5HIc_LHJbHMXVWCswkrPJ7fycSC9bcB5dhnmFWe2RCC4PP5RsMBpTzNPru8xtZPXCi-C_si3FWdOpXryETsBEuzR98kIlC-ZK1",
+                "width" : 3968
+             }
+          ],
+          "place_id" : "ChIJXTJ4IjtfJDERJgbQVR53KsU",
+          "plus_code" : {
+             "compound_code" : "2P8F+HP Vientiane, Laos",
+             "global_code" : "7PC42P8F+HP"
+          },
+          "rating" : 5,
+          "reference" : "ChIJXTJ4IjtfJDERJgbQVR53KsU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "Unnamed Road"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.9328354,
+                "lng" : 102.6167303
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.93419282989272,
+                   "lng" : 102.6179998298927
+                },
+                "southwest" : {
+                   "lat" : 17.93149317010727,
+                   "lng" : 102.6153001701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "SBL construction solutions",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114790191774521677726\"\u003eyong ho\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKx0ZXqyERRSB4whAa2b8-RNbjUSlkkWMlKdPaV-anmeh_LArxLRPwkT1PO3VWNuANAi1ZGWSebgKjIpcasp4v2S-n5xpU8ayp2qg-U_HLxRhGydxY5wLYY2p2xHlPb_MlWD6mH1ykObzAGB5Q9r7h63XtwK2W2LDBDLFJQl83iqME1",
+                "width" : 1836
+             }
+          ],
+          "place_id" : "ChIJPxOdZKZoJDERU7fexH4uFeU",
+          "plus_code" : {
+             "compound_code" : "WJM8+4M Vientiane, Laos",
+             "global_code" : "7P94WJM8+4M"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJPxOdZKZoJDERU7fexH4uFeU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4,
+          "vicinity" : "Vientiane"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.0579222,
+                "lng" : 102.6656093
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.05928572989272,
+                   "lng" : 102.6666691298927
+                },
+                "southwest" : {
+                   "lat" : 18.05658607010728,
+                   "lng" : 102.6639694701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Hitachi Elevator Laos Co.,Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1422,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105563672004334539872\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLnCZ17Uvuwm2ZQJQTFv0ydm8iUKfX9brzqs9zDawUG_BNgz2yYnOKqWxRzJ5fT8YdIbTHNJ8tzN5EAgadSkNbalLin6sLZ5KsnSzuIHQL8xiV0zjZLnkP_3pilIP9vRtOlgnVMq5PTX9VKv09FgzcUZIM64F_xLRbGbIkXdCpzDW3Q",
+                "width" : 2788
+             }
+          ],
+          "place_id" : "ChIJhfqFG1pdJDERxcYxSyTcubU",
+          "plus_code" : {
+             "compound_code" : "3M58+56 Vientiane, Laos",
+             "global_code" : "7PC43M58+56"
+          },
+          "rating" : 0,
+          "reference" : "ChIJhfqFG1pdJDERxcYxSyTcubU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Friendship Supermart Building (2nd Floor) No.13 South Rd. Xaysavang District, Vientiane"
+       }
+    ],
+    "status" : "OK"
+ }
