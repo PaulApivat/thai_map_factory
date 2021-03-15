@@ -10,11 +10,21 @@ Using Google Maps API to locate factories in Thailand
 
 ## Code, Libraries and Resources Used
 
+### Documentation
+
+### Python
+
+### R
+
 ## Documenting Progress
 
 ## Getting Data
 
+### Google Maps API
+
 ## EDA
+
+### Visualization
 
 ## Analysis
 
