@@ -1,0 +1,797 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwLwp6MEJ3H5J7WrbZ2Z0ckD__gIEKdqSxcUbv1OVyqWK7ItCBihQKCrcM5XCqDG735pNGgfVFYTMpwKdzrpayi1WblE20n5MgtTL0HEiAMizIyPRrNYp4Kfz48Cmum8HR8KDrwZfcQJeejmtXJLOpAWQQHAbde4ooabX0JJ1uj-p7WGXvP02w3nA0crYxDs3cvxf5yUDI8m3w8F9AqvyeQAuYuW8CbAtzjvdMKHuBDovr29l3Z2n8xpi4RQsIUOmtRY6xd_ePk6K2M959ByULn-bfkj4L0fDquYX5odCqinE1BpT-7JbD-ksHs6SYQexpRuF2eEQ5CKs7WP3B84Tdo2eaeTR2BWoMrFPUkIN1HW509izeoZ23DRHStfTGcgP7EdHJCoYDPJjvS8MrwEqQrC_p2vzgCELb4eP7m83InQClJRoWdDx3dq17zHkuKWuUIzeQ",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.705955,
+                "lng" : 100.360596
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.70729607989272,
+                   "lng" : 100.3619454798927
+                },
+                "southwest" : {
+                   "lat" : 13.70459642010728,
+                   "lng" : 100.3592458201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "A.T. Chemical Co.,Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJt8qLNgWW4jARCW1Ewfu1pZo",
+          "plus_code" : {
+             "compound_code" : "P946+96 Bangkok",
+             "global_code" : "7P52P946+96"
+          },
+          "rating" : 0,
+          "reference" : "ChIJt8qLNgWW4jARCW1Ewfu1pZo",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "6/1183 ถนนเพชนเกษม77 ถนนเพชรเกษม แขวงหนองแขมพลู Nong Khaem"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.1074244,
+                "lng" : 100.3034236
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.10888002989272,
+                   "lng" : 100.3047655798927
+                },
+                "southwest" : {
+                   "lat" : 14.10618037010728,
+                   "lng" : 100.3020659201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Proofcoat Chemical Company Limited",
+          "place_id" : "ChIJoQ1251Rg4jAREMy-2-6CULU",
+          "plus_code" : {
+             "compound_code" : "4843+X9 Sai Yai, Sai Noi District, Nonthaburi",
+             "global_code" : "7P624843+X9"
+          },
+          "rating" : 0,
+          "reference" : "ChIJoQ1251Rg4jAREMy-2-6CULU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "23/9 Moo11, Tambol Saiyai, Amphoe Sainoi, Nonthaburi, 11150"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7732422,
+                "lng" : 100.3868648
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.77463297989272,
+                   "lng" : 100.3882133798927
+                },
+                "southwest" : {
+                   "lat" : 13.77193332010728,
+                   "lng" : 100.3855137201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "NP CHEMICAL SUPPLY CO.,LTD.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1280,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114848165319389436989\"\u003eบริษัท เอ็นพี เคมีคอล ซัพพลาย จำกัด\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI5SRnnQV7zYld8dkms-2Qs0RoTGKlnO0R3wWm7kzOT48X13nZ5_0y4AlOIh4ahkXu9ZTdiI5DcZOXaUaOGGXcK7GSxYeBX6-ujkmuqUnwhVSklNelBS8Mb0O4641K4qiN8jxO2DHyzV_BUxKHT4uhZWdjoDMfwZKv_1ZESMpoKkKuU",
+                "width" : 720
+             }
+          ],
+          "place_id" : "ChIJOzCa0teQ4jARum3ENZlQaH0",
+          "plus_code" : {
+             "compound_code" : "Q9FP+7P Bangkok",
+             "global_code" : "7P52Q9FP+7P"
+          },
+          "rating" : 0,
+          "reference" : "ChIJOzCa0teQ4jARum3ENZlQaH0",
+          "scope" : "GOOGLE",
+          "types" : [ "hospital", "health", "point_of_interest", "store", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "เลขที่ 42/1 ซอยมณฑลทอง หมู่ 19 ถนนพุทธมณฑล 2 แขวงศาลาธรรมสพน์ Thawi Watthana"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7503538,
+                "lng" : 100.2987016
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.75171652989272,
+                   "lng" : 100.3001128798927
+                },
+                "southwest" : {
+                   "lat" : 13.74901687010728,
+                   "lng" : 100.2974132201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "K.M. Chemical Corporation Company Limited",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2352,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109864458335790915653\"\u003eตินนา เปี่ยมชัยยุทธ\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLhGdA3lurqPoE9P12qSvCT8ulUqBf3wfkMBk_ts-Ajh3RBsQ-0z_93fFUyIU71bVRqGUh9ul7Nd5Ejummfm-7LiCbv89BCf8_VKfmDIXe3CA9cOeCZ1KdIl4-3BY1-3n4FjoKeaXnh1YMqVOZLo5xypDKN-9oayOB7X8jFEFVGI9ra",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJ4TUqNdRAHTERPZ_flzuwpZM",
+          "plus_code" : {
+             "compound_code" : "Q72X+4F Rai Khing, Sam Phran District, Nakhon Pathom",
+             "global_code" : "7P52Q72X+4F"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ4TUqNdRAHTERPZ_flzuwpZM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "115 Moo5 Well Grow Industrial Estate, Bangna-Trad Raod, Tambol Bang Samak, Amphoe Bang Pakong, Chachoengsao, 24180"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6521867,
+                "lng" : 100.4094302
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.65353917989272,
+                   "lng" : 100.4107793798927
+                },
+                "southwest" : {
+                   "lat" : 13.65083952010727,
+                   "lng" : 100.4080797201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Phatnicha Chemical Ltd.,part.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4096,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106875995403384280667\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJVt05Qv8_wCsdxZT8XoHiB82CDb_qn0lzJcy5eixwtugaLkRb8bSrY8-KTClPs_KdMDLkFFr7Ofe_N6SX7U0GwBu_rkgOo8T0jPBeYsfJG1G9EiD4ibmvDKT5_3RCYRN5e-tFGQS7a_Tjlh1ksZikc7w4DdHsbK5Oc5XAZqPfId6Tr",
+                "width" : 3106
+             }
+          ],
+          "place_id" : "ChIJ8b79PVW94jARQDRJaUUMmLQ",
+          "plus_code" : {
+             "compound_code" : "MC25+VQ Bangkok",
+             "global_code" : "7P52MC25+VQ"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ8b79PVW94jARQDRJaUUMmLQ",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "122 Phraya Monthat Ratchasi Phichit Yaek 31 Alley, 14 คลองบางบอน Bang Bon"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5773167,
+                "lng" : 100.2848833
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.57867582989272,
+                   "lng" : 100.2862295798927
+                },
+                "southwest" : {
+                   "lat" : 13.57597617010728,
+                   "lng" : 100.2835299201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Lee Chemical Products Co.,LTD.",
+          "opening_hours" : {},
+          "place_id" : "ChIJexrU8Oy44jARlZpFepgOO_s",
+          "plus_code" : {
+             "compound_code" : "H7GM+WX Na Di, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H7GM+WX"
+          },
+          "rating" : 4,
+          "reference" : "ChIJexrU8Oy44jARlZpFepgOO_s",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Na Di, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.594147,
+                "lng" : 100.316242
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.59557667989272,
+                   "lng" : 100.3175877798927
+                },
+                "southwest" : {
+                   "lat" : 13.59287702010728,
+                   "lng" : 100.3148881201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เอทีพี เคมีคอล จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2529,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108191933581849633242\"\u003eบริษัท เอทีพี เคมีคอล จำกัด\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwL6eR-yFID2wOFqBsEE4zRA4xn-mOSzP_6LVGFbVz2imXRO59lL-e9ooGHLMHFMrEUyuX4tqFMDRJPovH3JPdbgM7M8-Tu8jg6eQdH8mAxKwjpr3cBcIU8IyF7jmEFFRdGoQV5Vb7dZm_H5tUtFrlaGgfDq7PDugIEYXFjIfU9E-Cu-",
+                "width" : 3515
+             }
+          ],
+          "place_id" : "ChIJL3xAm3C44jAR6DnFxAr0PRM",
+          "plus_code" : {
+             "compound_code" : "H8V8+MF Na Di, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H8V8+MF"
+          },
+          "rating" : 0,
+          "reference" : "ChIJL3xAm3C44jAR6DnFxAr0PRM",
+          "scope" : "GOOGLE",
+          "types" : [ "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "21/ ซอย 5 Khok Krabue, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6856728,
+                "lng" : 100.4011366
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.68699417989272,
+                   "lng" : 100.4024986798927
+                },
+                "southwest" : {
+                   "lat" : 13.68429452010728,
+                   "lng" : 100.3997990201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท แทแน้นท์ เคมิคอล จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2988,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116877437890173108112\"\u003eNarmaS Chans\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI6yQ7r4WHZtgYeeV_tfFA5uuDvp9CDGzJDeihPR90im71iL8wEZKl-wzP1_8aZJ61onMim2Nsr6Rh-j3cnaMHKmibTZv3gAPSnntEPuWh2oj37fj-RALwpFWlJaN_bv0bsTLpTijqEV5gm5qsPLSTRT0mfLpmqpj_oya6NA9XCoKDp",
+                "width" : 5312
+             }
+          ],
+          "place_id" : "ChIJaUtPo8iX4jARnv8VhNDJNs4",
+          "plus_code" : {
+             "compound_code" : "MCP2+7F Bangkok",
+             "global_code" : "7P52MCP2+7F"
+          },
+          "rating" : 0,
+          "reference" : "ChIJaUtPo8iX4jARnv8VhNDJNs4",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "101 หมู่ที่ 7 108 ถ. กาญจนาภิเษก Lak Song, Bang Khae"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7216901,
+                "lng" : 100.4996058
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.72301607989272,
+                   "lng" : 100.5010927298927
+                },
+                "southwest" : {
+                   "lat" : 13.72031642010728,
+                   "lng" : 100.4983930701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Witcorp Products Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109595136270662316966\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLdnZ-fe5thevupZAk8d9T-1KbTMtGOTVMSapTuFCBVlICS2X9YNrLLVpn068Bb3_L8SDC33hCjiY5ADrhnXcgjszcNIRh73lO17t8DbBKekHO70yDw1FBna3rZLR_af5smPsIp29mQ-_AID4jwUOZd0YOVEZM57YVY9-YYJ9mg_Fg3",
+                "width" : 3569
+             }
+          ],
+          "place_id" : "ChIJb9dZ_O6Y4jARkia4ss8xYE8",
+          "plus_code" : {
+             "compound_code" : "PFCX+MR Bangkok",
+             "global_code" : "7P52PFCX+MR"
+          },
+          "rating" : 0,
+          "reference" : "ChIJb9dZ_O6Y4jARkia4ss8xYE8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "77/113 ชั้น 27 อาคาร สินสาธร กรุงธนบุรี Khlong Ton Sai, Khlong San"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6083737,
+                "lng" : 100.4365647
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.60965807989272,
+                   "lng" : 100.4379269298927
+                },
+                "southwest" : {
+                   "lat" : 13.60695842010728,
+                   "lng" : 100.4352272701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท คริสตัล คลีน เคมิคอล จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116892053013189307299\"\u003ePonlawat Wattanalertrat\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJxlU-pQXfkshzfb_HBGglNQlm0LYTR_AnYm4lVND0irJYNhezQVSKIHUdSYbTquDcrd4EoA92jtJu3ubiRsXnqzh2KrdSglix5ZKtvOWYnReUnCNvBzF9xk4zotgZBRNa5x6A0H8ORxi3hn3oYsHk4yoVs0kL_8RRjA-94-rFsA946",
+                "width" : 4000
+             }
+          ],
+          "place_id" : "ChIJHZL9Y6y84jAR3oBxVSnuMwE",
+          "plus_code" : {
+             "compound_code" : "JC5P+8J Bangkok",
+             "global_code" : "7P52JC5P+8J"
+          },
+          "rating" : 5,
+          "reference" : "ChIJHZL9Y6y84jAR3oBxVSnuMwE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "1015/81 Rama II Soi 47, Tha Kham, Bang Khun Thian"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6991765,
+                "lng" : 100.4645748
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.70045562989272,
+                   "lng" : 100.4659243298927
+                },
+                "southwest" : {
+                   "lat" : 13.69775597010728,
+                   "lng" : 100.4632246701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท สามัคคีเคมิคอล จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJEXMKDHOY4jARFyfNbRkXGhY",
+          "plus_code" : {
+             "compound_code" : "MFX7+MR Bangkok",
+             "global_code" : "7P52MFX7+MR"
+          },
+          "rating" : 5,
+          "reference" : "ChIJEXMKDHOY4jARFyfNbRkXGhY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "store", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "257 หมู่ที่ 1 Chom Thong Rd, Chom Thong"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5625339,
+                "lng" : 100.1694154
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.56387612989272,
+                   "lng" : 100.1707628298927
+                },
+                "southwest" : {
+                   "lat" : 13.56117647010728,
+                   "lng" : 100.1680631701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เคมมิสทรี จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 301,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115543263090869602398\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLoEvKRCAhhVAYgikckKg6M9xX6TqVqWs7W3nK5KfTLzL1g2ZVgxel2Uu863Le1gyMnqYyIdKJxYmVr7u4QxKPXZc9Q62DInKzsSV5eXlABCFPRyKQhH6wBqJllwutVrPveu7O6Zaye_igBGLemIwKQK9D9NCuDkE0M4eReQx52IK_2",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJ2yKUMdm84jAR0Q4_1EjgSX8",
+          "plus_code" : {
+             "compound_code" : "H579+2Q Chai Mongkhon, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H579+2Q"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ2yKUMdm84jAR0Q4_1EjgSX8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "13/3 หมู่6 ถนนบ้านแพ้ว Chai Mongkhon, อำเภอเมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7211041,
+                "lng" : 100.4558774
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.72246547989272,
+                   "lng" : 100.4572684798927
+                },
+                "southwest" : {
+                   "lat" : 13.71976582010728,
+                   "lng" : 100.4545688201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "D&G CHEMICAL AND TRADING CO., LTD.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 591,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116154002793424520635\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLxnPMvBw9uaD5tCh3Mdh54-C7WAPf75LICG3orrBknLy7OdVKIp0PpAKANh1tH-KpGjmKAgKzZcCwi-YRrRKj6luqb64Kce6EHNFkVv3s6mR2WVTNxlWRMIG9ZfOybBfCHTGdY-_f0pgqM9SmoczY5QRllm3s4fDDCX14-1vs7RmY5",
+                "width" : 466
+             }
+          ],
+          "place_id" : "ChIJie5YwJeZ4jAR0zKL3Ft1kLk",
+          "plus_code" : {
+             "compound_code" : "PFC4+C9 Bangkok",
+             "global_code" : "7P52PFC4+C9"
+          },
+          "rating" : 0,
+          "reference" : "ChIJie5YwJeZ4jAR0zKL3Ft1kLk",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "307 223 ถนน จรัญสนิทวงศ์ Bang Khun Si, Bangkok Noi"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.0080562,
+                "lng" : 100.4930564
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.00997122989272,
+                   "lng" : 100.4947097298927
+                },
+                "southwest" : {
+                   "lat" : 14.00727157010728,
+                   "lng" : 100.4920100701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ร้านยา n.c chemicals co.ltd",
+          "place_id" : "ChIJ15VNtUuH4jARXCHhFY7XIDs",
+          "plus_code" : {
+             "compound_code" : "2F5V+66 Bang Luang, Mueang Pathum Thani District, Pathum Thani",
+             "global_code" : "7P622F5V+66"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ15VNtUuH4jARXCHhFY7XIDs",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "เลขที่ 97 Bang Luang, Mueang Pathum Thani District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7523323,
+                "lng" : 100.2275864
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.75372237989272,
+                   "lng" : 100.2289219798927
+                },
+                "southwest" : {
+                   "lat" : 13.75102272010728,
+                   "lng" : 100.2262223201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท ซีล เคมีคอล จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 720,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117026037744085261061\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI1jOMkKY3hPmj81Y9fywRcRatbHEXiOEgojZFJW9pZORoXaTX5Fya70LTl9CgLXv8Y4vgIyjyiN2BRMCJLO61uT4iw5u1cz8UiiJ6FHdQz5EtyMTthcE0chu9jyHcMw6RyBpHZ3HTlySa2Pzis7d2ngVP8wd3u01zPnaIrwk4fbziS",
+                "width" : 1280
+             }
+          ],
+          "place_id" : "ChIJ6WbuZmeV4jARiavGINH2dHU",
+          "plus_code" : {
+             "compound_code" : "Q62H+W2 Tha Talat, Sam Phran District, Nakhon Pathom",
+             "global_code" : "7P52Q62H+W2"
+          },
+          "rating" : 4,
+          "reference" : "ChIJ6WbuZmeV4jARiavGINH2dHU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "135 หมู่ 2 ซอยศิริชัย 2 ถนนพุทธมลฑลสาย 7 ตำบลท่าตลาด Sam Phran District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6507412,
+                "lng" : 100.3256202
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.65202602989272,
+                   "lng" : 100.3269651798927
+                },
+                "southwest" : {
+                   "lat" : 13.64932637010728,
+                   "lng" : 100.3242655201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "L.C.T. Chemical & Machinery Co.,Ltd.",
+          "place_id" : "ChIJmSPya_W-4jARNSTh1oxZPHk",
+          "plus_code" : {
+             "compound_code" : "M82G+76 Suan Luang, Krathum Baen District, Samut Sakhon",
+             "global_code" : "7P52M82G+76"
+          },
+          "rating" : 3,
+          "reference" : "ChIJmSPya_W-4jARNSTh1oxZPHk",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "26/9, Moo 2, Tambon Kaerai, Amphoe Kratumban, Samutsakorn, 74110"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7785036,
+                "lng" : 100.4780135
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.77964382989272,
+                   "lng" : 100.4795593298927
+                },
+                "southwest" : {
+                   "lat" : 13.77694417010728,
+                   "lng" : 100.4768596701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "K. Chemical Co.,Ltd",
+          "place_id" : "ChIJ6fkjx4aZ4jARurBRKWZdDVg",
+          "plus_code" : {
+             "compound_code" : "QFHH+C6 Bangkok",
+             "global_code" : "7P52QFHH+C6"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ6fkjx4aZ4jARurBRKWZdDVg",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "3/80-82, Boromrachachonnanee Road, Aronamarin, Khet Bangkoknoi, Bangkok, 10700"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7204738,
+                "lng" : 100.4965701
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.72197787989272,
+                   "lng" : 100.4979232798927
+                },
+                "southwest" : {
+                   "lat" : 13.71927822010728,
+                   "lng" : 100.4952236201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Siampvschemicals Co.,LTD.",
+          "place_id" : "ChIJj1OvO-mY4jARltvqs0Rfslo",
+          "plus_code" : {
+             "compound_code" : "PFCW+5J Bangkok",
+             "global_code" : "7P52PFCW+5J"
+          },
+          "rating" : 5,
+          "reference" : "ChIJj1OvO-mY4jARltvqs0Rfslo",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "วีรวัฒน์ 86/1 อาคารไทย Thanon Krung Thon Buri, Bang Lamphu Lang, Khlong San"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.5699081,
+                "lng" : 100.266478
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.57118032989272,
+                   "lng" : 100.2677060298927
+                },
+                "southwest" : {
+                   "lat" : 13.56848067010728,
+                   "lng" : 100.2650063701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท แกลลอท เคมีคอล จำกัด",
+          "place_id" : "ChIJfYl1AtO54jARVzGUOF-Skzs",
+          "plus_code" : {
+             "compound_code" : "H798+XH Tha Sai, Mueang Samut Sakhon District, Samut Sakhon",
+             "global_code" : "7P52H798+XH"
+          },
+          "rating" : 0,
+          "reference" : "ChIJfYl1AtO54jARVzGUOF-Skzs",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Unnamed Road, Tha Sai, Mueang Samut Sakhon District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6812986,
+                "lng" : 100.4992198
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.68271762989272,
+                   "lng" : 100.5003686298927
+                },
+                "southwest" : {
+                   "lat" : 13.68001797010728,
+                   "lng" : 100.4976689701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "เคมีภัณฑ์ อุตสาหกรรม Lead-solution จำหน่าย เคมีอุตสาหกรรม ราคาถูก ขายราคาส่งโรงงาน",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 750,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103330923672601260394\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLVMr1Hyq_0hOHF1opehLyD0rL58fxjwqYQNBFvosiVG7fx1Q-aoYfgcbUajC5iPwYZKD8G03GQFcx__yJfdmoZ0cn1w6C2KBq3FIs5bGITV3ACENd_R0xysSKPbSUVhhICZqRpLO2K3fw3yzpQiUSsr_0EmQi_TG8Al0rLwoI37IXJ",
+                "width" : 1334
+             }
+          ],
+          "place_id" : "ChIJL6HxIl9gHTERGkkwxtaw9DA",
+          "plus_code" : {
+             "compound_code" : "MFJX+GM Bangkok",
+             "global_code" : "7P52MFJX+GM"
+          },
+          "rating" : 5,
+          "reference" : "ChIJL6HxIl9gHTERGkkwxtaw9DA",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "store", "establishment" ],
+          "user_ratings_total" : 9,
+          "vicinity" : "ขาย เคมีภัณฑ์ อุตสาหกรรม ราคาส่ง บริษัท ลีดโซลูชั่น เอนจิเนียริ่ง จำกัด เลขที่ 67 ถนน สุขสวัสดิ์ 9 Bang Pakok, Rat Burana"
+       }
+    ],
+    "status" : "OK"
+ }
