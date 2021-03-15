@@ -1,0 +1,789 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwKZFC6I8PQb0DI_m0Y8NrgqPYAVRfMXNKffAciJvZeF87YRGbUYHjfrJkzkxXrbsdEDvA_V-78giYtfXaGz3OhikqVyJ61BAvgnPwbcQZySCS1Ioo-FNAXw7cHEmvaStuhhnbIw57_KKxfrrLinI5Raw-NwYP2iIWK1OvZw5JYpZubN5nnMfd0AR8QqdlHRx4q4QSxcP5Fp83zeGaX0HK_ug60in_3Aaw5xUPTNGHwsBPb4S3SMMRZ_rlRU2T9d63ofrpN8dlL5ju12ogpFtX9RbkxeBbVmbPpXYmTG9IiKkHA7cVOJT777SRfODuE9nbWTnHNpcbAL7CUHP-k3Fxk8g9djs6EEm7fzP8s9wRcI84VxkWs4djOnnyT7gBQbKJxd2qEEShNroZ8bHkFhvjhZ6YyzeWnq0zMUGYXN1T2laaktbGu71x13sX-cC98nYa19Cw",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.975714,
+                "lng" : 102.125687
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.97711762989272,
+                   "lng" : 102.1270336298927
+                },
+                "southwest" : {
+                   "lat" : 14.97441797010728,
+                   "lng" : 102.1243339701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Crystal case chemical Part.,Ltd",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJR3hhLHtMGTERYmABH0qNTVM",
+          "plus_code" : {
+             "compound_code" : "X4GG+77 Nakhon Ratchasima, Nai Mueang, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P64X4GG+77"
+          },
+          "rating" : 0,
+          "reference" : "ChIJR3hhLHtMGTERYmABH0qNTVM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "333/61 Moo7 Amper Muang-Nakornratchasima"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.9766898,
+                "lng" : 102.0924936
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.97809997989272,
+                   "lng" : 102.0938490798927
+                },
+                "southwest" : {
+                   "lat" : 14.97540032010727,
+                   "lng" : 102.0911494201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ห้างหุ้นส่วนจำกัด เจ เจ เคมิคอล",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1536,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102358148607475322752\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJuichVoaPOx9j1UwRYtmSjMQRBAZiKIuWc6XLA0ezSXcD-ZSvxIi9hKK_M2xQ4dEI8cc93HrH7iF1ml8oaDfv9dx07iNy6XrI1_XnghqYZZVxa0vILaRYebNHD2GqzUYOBrE6RfYZtt8xeo-3xYzPEXfyBNsGc-y6eaR35fGEubBec",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJ12n3ubxMGTERe_IUpnQjzR4",
+          "plus_code" : {
+             "compound_code" : "X3GR+MX Nakhon Ratchasima, Nai Mueang, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P64X3GR+MX"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ12n3ubxMGTERe_IUpnQjzR4",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "273 Suranaree Rd, Tambon Nai Mueang, Mueang Nakhon Ratchasima District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 15.0228943,
+                "lng" : 102.1347024
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 15.02421457989272,
+                   "lng" : 102.1360934798927
+                },
+                "southwest" : {
+                   "lat" : 15.02151492010728,
+                   "lng" : 102.1333938201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ลำลูกกาเคมีภัณฑ์ สาขาโคราช",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1108,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111984038791484924934\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIy55g0usLcOI81ifHKHy_DhQkahK6ChcvAtTLATifRUQzdOEsQP-XVhWGw017QPAHPmBabqV1npmaTMSZsyUwIPpX8yzHBvPu6wUd9Rgwh8sURfIXMXL9mMwVGC3mbUOWBXv4aQyapSQ55uTxgnPoGNYbrl6VtJh9BR_QWkah47DNi",
+                "width" : 1477
+             }
+          ],
+          "place_id" : "ChIJxyStk71LGTER4o35-PaSvTY",
+          "plus_code" : {
+             "compound_code" : "24FM+5V Ban Ko, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P7424FM+5V"
+          },
+          "rating" : 5,
+          "reference" : "ChIJxyStk71LGTER4o35-PaSvTY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "291/5-291 Cho Ho, เมืองนครราชสีมา"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.901425,
+                "lng" : 102.1580649
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.90276612989272,
+                   "lng" : 102.1594205798927
+                },
+                "southwest" : {
+                   "lat" : 14.90006647010728,
+                   "lng" : 102.1567209201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บจก.สีมาอินเตอร์",
+          "place_id" : "ChIJN51J22RNGTER8ZSxBQSv4BY",
+          "plus_code" : {
+             "compound_code" : "W525+H6 Nong Bua Sala, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P64W525+H6"
+          },
+          "rating" : 0,
+          "reference" : "ChIJN51J22RNGTER8ZSxBQSv4BY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Unnamed Road Nong Bua Sala, Mueang Nakhon Ratchasima District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 15.0857439,
+                "lng" : 102.1862945
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 15.08709527989272,
+                   "lng" : 102.1878571798927
+                },
+                "southwest" : {
+                   "lat" : 15.08439562010728,
+                   "lng" : 102.1851575201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท อะควาทรีท เคมิคอล จำกัด",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 890,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104352129759432482950\"\u003enapapar lokunprakit\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLNahxig_f5ShAV3jlAJd3n5grFSyHdNTWeB1QSpDVrkdH9AudY21KabWyfTFvj1a7zGIF3I5m7yldk4cK-YjH7oLLx4AS9rj8IK6gee8Mf38XlaRX4IPQbz8ARx33ZRXy6EpsjciAHlQWeK3MSHg3h7wxX2hBtvJ37SyER1bc0V2Cl",
+                "width" : 1187
+             }
+          ],
+          "place_id" : "ChIJ1ynnx743GTER1ryaNwz7aY0",
+          "plus_code" : {
+             "compound_code" : "35PP+7G Nong Khai Nam, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P7435PP+7G"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ1ynnx743GTER1ryaNwz7aY0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Nong Khai Nam, Mueang Nakhon Ratchasima District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.9930286,
+                "lng" : 101.6840683
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.99439922989272,
+                   "lng" : 101.6854174298927
+                },
+                "southwest" : {
+                   "lat" : 14.99169957010728,
+                   "lng" : 101.6827177701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท อะกรี ดีเวลลอปเม้นท์ จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJYRdkTWuWHjER2GpIz1Grvlo",
+          "plus_code" : {
+             "compound_code" : "XMVM+6J Nong Bua Noi, Sikhio District, Nakhon Ratchasima",
+             "global_code" : "7P63XMVM+6J"
+          },
+          "rating" : 0,
+          "reference" : "ChIJYRdkTWuWHjER2GpIz1Grvlo",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Nong Bua Noi, Sikhio District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.9874611,
+                "lng" : 102.095746
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.98883302989272,
+                   "lng" : 102.0970646298927
+                },
+                "southwest" : {
+                   "lat" : 14.98613337010728,
+                   "lng" : 102.0943649701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บ.ยูนิไลฟ์ สาขาโคราช",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3464,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113308969726934801012\"\u003eSathaporn Apairat\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJuDpQa5S5-BDS8ubuHVhiWkdIE6yIZHvEqLNq0WLuqm8eHv8eI0zxWhfagl8aS8p4VNy6bNyQ_sjb664C358YHMV7uwqjyzBlQYiccwS8xP-bXJKHHfn_xYhfJ4Tsah0gJlBUzUvrzip-4NiTfNHBeZ-NKRt2YouugDURjFHvd-ZeC",
+                "width" : 4618
+             }
+          ],
+          "place_id" : "ChIJOTkK7J9MGTERJF03cs8-ydo",
+          "plus_code" : {
+             "compound_code" : "X3PW+X7 Nakhon Ratchasima, Nai Mueang, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P64X3PW+X7"
+          },
+          "rating" : 5,
+          "reference" : "ChIJOTkK7J9MGTERJF03cs8-ydo",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "230/4 ราชสีมา อ เว นิ ว ถ มิตรภาพ หนองคาย อ เมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 15.289745,
+                "lng" : 102.329949
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 15.29101512989272,
+                   "lng" : 102.3310894798927
+                },
+                "southwest" : {
+                   "lat" : 15.28831547010728,
+                   "lng" : 102.3283898201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท ที. เค. ปุ๋ยอินทรีย์ชีวภาพ จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 721,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110310393829196712102\"\u003eบริษัท ที. เค. ปุ๋ยอินทรีย์ชีวภาพ จำกัด\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLvGg14-Ng9STtHGKiVrwKC1JZl3K08iCUpdRqLuRwhms8Q14ZOQhylxf9AJuu-r2i-uS3fOmqctjsw8O0KU2DyOJewnXWypASe1MQ0MemiDmLwwGaEhmFjU8Porri0or0GyhMLbPNb1P5hw-Fiqk0UAsoBbwjPDSOtObVnPqFnA0dU",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJqQDxm44kGTERna7hqBOF1MY",
+          "plus_code" : {
+             "compound_code" : "78QH+VX Makha, Non Sung District, Nakhon Ratchasima",
+             "global_code" : "7P7478QH+VX"
+          },
+          "rating" : 5,
+          "reference" : "ChIJqQDxm44kGTERna7hqBOF1MY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "เลขที่ 423 หมู่ 4 บ้านหนองม้า ตำบลมะค่า Non Sung District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.9442902,
+                "lng" : 101.6803746
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.94566142989272,
+                   "lng" : 101.6818165298927
+                },
+                "southwest" : {
+                   "lat" : 14.94296177010727,
+                   "lng" : 101.6791168701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ยูเอซี แอ็ดวานซ์ โพลิเมอร์ แอนด์ เคมิคัลส์ จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1128,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117830770513313625434\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwL3XrVAZWPkBS3EOb_ILN14z87A36rgH1x6ykbSC7aXMkLpAgHeYNPyW3nItAVOQYhnLYE25ZqnuNXGWTmKmJ05QRR4eZsVtKEWxw2wGZSusiPyGaqJ2IzXpMxt2RXivHLMfZLqWuCuOtOBDWS1TlceNdoaLh51RqNZLhQ_I5V54eH7",
+                "width" : 3712
+             }
+          ],
+          "place_id" : "ChIJ3UasuHajHjERYkEw9GzZqIQ",
+          "plus_code" : {
+             "compound_code" : "WMVJ+P4 Sikhio, Sikhio District, Nakhon Ratchasima",
+             "global_code" : "7P63WMVJ+P4"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ3UasuHajHjERYkEw9GzZqIQ",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "50 หมู่3 ถนนสีคิ้ว กม.7.5 Sikhio, Amphoe Dan Khun Thot"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.73968,
+                "lng" : 102.0318777
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.74104862989272,
+                   "lng" : 102.0331785798927
+                },
+                "southwest" : {
+                   "lat" : 14.73834897010728,
+                   "lng" : 102.0304789201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "หจก.ศิริเกษตร ปักธงชัย",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2560,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101712550071406963098\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIysQZ_3p745FcPc0JEpFyU7MxmLVidASQ2PTRNIc1MH7zYjAOqVzhz1FBGBeJVtJAO99DgoYf0NdLlXcsIdtQdsZktBQTlg2DlQ5qk4JEpnYdpcYgSRlv8XKH3DtNl6Bu31q9nrsT3no38cbx4T_pOaFtJkfMF4y1YNBHPpZLvRYdW",
+                "width" : 1440
+             }
+          ],
+          "place_id" : "ChIJ227TVfOqHjERUXws3A92keE",
+          "plus_code" : {
+             "compound_code" : "P2QJ+VQ Mueang Pak, Pak Thong Chai District, Nakhon Ratchasima",
+             "global_code" : "7P64P2QJ+VQ"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ227TVfOqHjERUXws3A92keE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "137​ หมู่​8​ Sueb Siri Rd, Mueang Pak, Pak Thong Chai District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.9859735,
+                "lng" : 102.0976823
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.98732312989272,
+                   "lng" : 102.0990657298927
+                },
+                "southwest" : {
+                   "lat" : 14.98462347010728,
+                   "lng" : 102.0963660701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท สุรเกษตร 007 จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJcdbeb59MGTERPxsVfAJVNIc",
+          "plus_code" : {
+             "compound_code" : "X3PX+93 Nakhon Ratchasima, Nai Mueang, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P64X3PX+93"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJcdbeb59MGTERPxsVfAJVNIc",
+          "scope" : "GOOGLE",
+          "types" : [ "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "183/7 ถนน มหาราช ตำบล ในเมือง Mueang Nakhon Ratchasima District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.9053159,
+                "lng" : 101.9629856
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.90661787989272,
+                   "lng" : 101.9643457798927
+                },
+                "southwest" : {
+                   "lat" : 14.90391822010728,
+                   "lng" : 101.9616461201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ห้างหุ้นส่วนจำกัด พี ภูตะวัน 2006",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 300,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106795905989511994415\"\u003ewaranya Ppoom\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIjvE-G08L2SJvr_dFNvB_CC5a7Biw19IEN_9_wXZBJV1CqTYmjxm6wbIKaTNwGbFdv3SjDx803IqB7LzKziShm2_LGl7VYhDPHFEAF16W3rMinPmUwenPmCe1RohoYex0GcV0sgc0UFdQ7VKXn6VljNu7t2zFMYdJTGDOKJFRli6Vk",
+                "width" : 600
+             }
+          ],
+          "place_id" : "ChIJAQAAABCuHjER7NXi0RtRgiU",
+          "plus_code" : {
+             "compound_code" : "WX47+45 Khok Kruat, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P63WX47+45"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJAQAAABCuHjER7NXi0RtRgiU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 5,
+          "vicinity" : "110 หมู่ที่ 13 Khok Kruat, Mueang Nakhon Ratchasima District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.8389661,
+                "lng" : 101.7654069
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.84014187989272,
+                   "lng" : 101.7667008798927
+                },
+                "southwest" : {
+                   "lat" : 14.83744222010728,
+                   "lng" : 101.7640012201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ร้านคุณปุ๋ย",
+          "photos" : [
+             {
+                "height" : 1280,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110725175925159965722\"\u003eoffchai w.\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIvuaLgbXaySG-iPisS89ylAfRwQGqGHJ5_oxGjkuhhXRQSEldiwQNyfJkYZVWVK4GKcrScgCX_gDlS8iqA3AvImXLpRfYEyO20brOrxXFIrcxZmIp_ajzdJfCeeOdUfyoNsNw5QoAaDY6bFoNU4U6ubKQzqPVXrTKqwIo58krkkhQh",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJo-lR3MWjHjERiWCUhWakW0k",
+          "plus_code" : {
+             "compound_code" : "RQQ8+H5 Makluea Mai, Sung Noen District, Nakhon Ratchasima",
+             "global_code" : "7P63RQQ8+H5"
+          },
+          "rating" : 5,
+          "reference" : "ChIJo-lR3MWjHjERiWCUhWakW0k",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "84/6 ถ สาย 24, Makluea Mai, Sung Noen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.8400623,
+                "lng" : 102.0832543
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.84206387989272,
+                   "lng" : 102.08945185
+                },
+                "southwest" : {
+                   "lat" : 14.83936422010727,
+                   "lng" : 102.08118845
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ศิริโชคการเกษตร โดยนายสมโภชน์ นามประสิทธิ์",
+          "place_id" : "ChIJVVVVVVVMGTERmWdL035ldDQ",
+          "rating" : 0,
+          "reference" : "ChIJVVVVVVVMGTERmWdL035ldDQ",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "อำเภอเมือง Mueang Nakhon Ratchasima District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.8733026,
+                "lng" : 101.840311
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.87466127989272,
+                   "lng" : 101.8416865298927
+                },
+                "southwest" : {
+                   "lat" : 14.87196162010728,
+                   "lng" : 101.8389868701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "โรงบรรจุก๊าซ สูงเนินอ๊อกซิเจน",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1706,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118420045488240125419\"\u003eคณพศ ศิริศรีอัจฉราพร\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLkl-vx8z-7PGRQn1EtLr8Zt315J1zzQa53zxqrhQ5EA2WdLZn9tKnyuUusV2TbjTDDmv9yY3yrBu7Kff7H2OqAmrk5tVyDhAnS4HyHoLciofoCDAfNhBOdehX3cLVA90z4UEzKTOR52MaJvQmrBbdRF_FY4IVGwtzbvEGgjebKj4fO",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJ62kXmx-lHjERYEXgA9CZTqw",
+          "rating" : 5,
+          "reference" : "ChIJ62kXmx-lHjERYEXgA9CZTqw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "VRFR+84, Sung Noen, Sung Noen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 15.2109102,
+                "lng" : 101.7681877
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 15.21229007989272,
+                   "lng" : 101.7694553298927
+                },
+                "southwest" : {
+                   "lat" : 15.20959042010728,
+                   "lng" : 101.7667556701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "แสงทวีการเกษตร",
+          "place_id" : "ChIJ5esZPcfDHjER29HteXveIH8",
+          "plus_code" : {
+             "compound_code" : "6Q69+97 Dan Khun Thot, Dan Khun Thot District, Nakhon Ratchasima",
+             "global_code" : "7P736Q69+97"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ5esZPcfDHjER29HteXveIH8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Dan Khun Thot, Dan Khun Thot District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.9200137,
+                "lng" : 102.1843757
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.92127552989272,
+                   "lng" : 102.1857527298927
+                },
+                "southwest" : {
+                   "lat" : 14.91857587010728,
+                   "lng" : 102.1830530701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บ.โคยามา",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJsbmXOmpOGTERV2u5OAyZ1f0",
+          "plus_code" : {
+             "compound_code" : "W5CM+2Q Nong Ra Wiang, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P64W5CM+2Q"
+          },
+          "rating" : 0,
+          "reference" : "ChIJsbmXOmpOGTERV2u5OAyZ1f0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Nong Ra Wiang, Mueang Nakhon Ratchasima District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.8730701,
+                "lng" : 101.8404964
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.87442752989272,
+                   "lng" : 101.8418653798927
+                },
+                "southwest" : {
+                   "lat" : 14.87172787010728,
+                   "lng" : 101.8391657201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "สูงเนินอ๊อกซิเจน",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJZWzzEVWlHjER_M_8oZCVmNc",
+          "plus_code" : {
+             "compound_code" : "VRFR+65 Sung Noen, Sung Noen District, Nakhon Ratchasima",
+             "global_code" : "7P63VRFR+65"
+          },
+          "rating" : 0,
+          "reference" : "ChIJZWzzEVWlHjER_M_8oZCVmNc",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "139 Sung Noen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 14.8768034,
+                "lng" : 102.1682995
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 14.87835262989272,
+                   "lng" : 102.1694387298927
+                },
+                "southwest" : {
+                   "lat" : 14.87565297010728,
+                   "lng" : 102.1667390701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "SHC Korat",
+          "place_id" : "ChIJzbBQt_ZRGTERWIhC9_Ofj_0",
+          "plus_code" : {
+             "compound_code" : "V5G9+P8 Nong Bua Sala, Mueang Nakhon Ratchasima District, Nakhon Ratchasima",
+             "global_code" : "7P64V5G9+P8"
+          },
+          "rating" : 0,
+          "reference" : "ChIJzbBQt_ZRGTERWIhC9_Ofj_0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Nong Bua Sala, Mueang Nakhon Ratchasima District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 15.1816093,
+                "lng" : 101.7520582
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 15.18304867989272,
+                   "lng" : 101.7533517298927
+                },
+                "southwest" : {
+                   "lat" : 15.18034902010728,
+                   "lng" : 101.7506520701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "แสงทวีคลังเกษตร 2",
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116178725172825269803\"\u003echumpool supanthapreecha\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJPfQgT42SQaxexHvwze3rnCUJNb7PU_4ZbePuZSAxlemiJV-IxSSaeTO0QFfZqjom2dvGSj9z5ETzhC9TIR8UkkUmhTRBLuj2VnrfAE06SjJzm1AVIC8F4WGWNuAZXTYzFkOgGSFJ4yDgWleuD7-uoz4UWPD1ly7utprCkaAv50457",
+                "width" : 2448
+             }
+          ],
+          "place_id" : "ChIJCeF4g4LBHjERQzMccz0Rl7c",
+          "plus_code" : {
+             "compound_code" : "5QJ2+JR Dan Khun Thot, Dan Khun Thot District, Nakhon Ratchasima",
+             "global_code" : "7P735QJ2+JR"
+          },
+          "rating" : 0,
+          "reference" : "ChIJCeF4g4LBHjERQzMccz0Rl7c",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "ต ด่านขุนทด อ ด่าน ทด"
+       }
+    ],
+    "status" : "OK"
+ }
