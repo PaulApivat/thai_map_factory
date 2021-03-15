@@ -1,0 +1,571 @@
+{
+    "html_attributions" : [],
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.2736541,
+                "lng" : 102.7853863
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.27501682989272,
+                   "lng" : 102.7866910298927
+                },
+                "southwest" : {
+                   "lat" : 16.27231717010728,
+                   "lng" : 102.7839913701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท หมื่นเจริญ เคมีภัณฑ์ จำกัด",
+          "opening_hours" : {},
+          "place_id" : "ChIJs6eKCvt-IjERYWtnTJw01Ic",
+          "plus_code" : {
+             "compound_code" : "7QFP+F5 Non Som Bun, Ban Haet District, Khon Kaen",
+             "global_code" : "7P847QFP+F5"
+          },
+          "rating" : 4,
+          "reference" : "ChIJs6eKCvt-IjERYWtnTJw01Ic",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4,
+          "vicinity" : "99 Mittraphap Rd, Non Som Bun, Ban Haet District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.288642,
+                "lng" : 102.7430291
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.28996162989272,
+                   "lng" : 102.7444536298927
+                },
+                "southwest" : {
+                   "lat" : 16.28726197010728,
+                   "lng" : 102.7417539701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บจก.ยูนิลิเวอร์ อินเตอร์ เคมิคอล",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1335,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107193639140860813743\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKrQQaN1V-oV0h5krIRi8sKJpzdTqqkv3xBS9d0g8spTHhKm0xzhsOmzEOYdJkkJ-4hseIX1UQ6Cb3761UHNOG8t00BDbDyWvH9T0TR01Y6Hv79QNF3WIppkFrbk5ZkLQohHN1KGej54tiq_BPa_v6sLVCtogtbCx7-u-8WSDyuvMqE",
+                "width" : 2000
+             }
+          ],
+          "place_id" : "ChIJR-kwmhF9IjERiQRyUDEeZqU",
+          "plus_code" : {
+             "compound_code" : "7PQV+F6 Ban Ton, Phra Yuen District, Khon Kaen",
+             "global_code" : "7P847PQV+F6"
+          },
+          "rating" : 0,
+          "reference" : "ChIJR-kwmhF9IjERiQRyUDEeZqU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "หมู่ที่ 7 เลขที่ 54 Muni Sansoen Rd, Ban Ton, Phra Yuen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.7085311,
+                "lng" : 102.9727414
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.70986297989272,
+                   "lng" : 102.9741585298927
+                },
+                "southwest" : {
+                   "lat" : 16.70716332010728,
+                   "lng" : 102.9714588701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ร้าน ส.การเกษตร ปุ๋ย ยา เมล็ดพันธ์ และอุปกรณ์การเกษตร",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103067025232336868168\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwL8XdrsmRMY1SBMnUlnA19DmY5PqBEaOKyhPnyXOyx0SMAs7_RpHe_DNyjzLBir-8Gzmz8COqWYc8ZiO9iJpOOUqRDRekCFoYKLRI1rX57W-rMESOLSbTUKMRLgiGQNVQT7i1_aJfd4f2s9a7BycZ2PLWxV1uHdvQoOyk9aBB4bzPyr",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJQ0o-Mbn6IjERfW-DuF4rv40",
+          "plus_code" : {
+             "compound_code" : "PX5F+C3 Bua Ngoen, Nam Phong District, Khon Kaen",
+             "global_code" : "7P84PX5F+C3"
+          },
+          "rating" : 5,
+          "reference" : "ChIJQ0o-Mbn6IjERfW-DuF4rv40",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "28 หมู่ 17 บัวเงิน น้ำพอง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.4233293,
+                "lng" : 102.8249142
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.42467427989272,
+                   "lng" : 102.8262777798927
+                },
+                "southwest" : {
+                   "lat" : 16.42197462010728,
+                   "lng" : 102.8235781201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ปุ๋ยอินทรีย์ขอนแก่น",
+          "place_id" : "ChIJu3MWUB6KIjERbWtBa8AErcw",
+          "rating" : 0,
+          "reference" : "ChIJu3MWUB6KIjERbWtBa8AErcw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "98 ถนนดรุณสำราญ อำเภอเมือง Mueang Khon Kaen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.4142937,
+                "lng" : 102.8984075
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.41561857989272,
+                   "lng" : 102.8998226298927
+                },
+                "southwest" : {
+                   "lat" : 16.41291892010728,
+                   "lng" : 102.8971229701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ห้างหุ้นส่วนจำกัด วัสดุปรับปรุงดินยอดดอย",
+          "place_id" : "ChIJAQAAAABhIjERHb2uY_nw750",
+          "plus_code" : {
+             "compound_code" : "CV7X+P9 Phra Lap, Mueang Khon Kaen District, Khon Kaen",
+             "global_code" : "7P84CV7X+P9"
+          },
+          "rating" : 0,
+          "reference" : "ChIJAQAAAABhIjERHb2uY_nw750",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "113/3 ม.6, ถ ถนน ขอนแก่น-ยางตลาด Phra Lap, Mueang Khon Kaen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.4527643,
+                "lng" : 102.8409965
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.45411622989272,
+                   "lng" : 102.8423717798927
+                },
+                "southwest" : {
+                   "lat" : 16.45141657010728,
+                   "lng" : 102.8396721201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ผาทอง กรุ๊ป",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 960,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104827383100560921648\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLxCd7eTVuRTQ_Toq2fPjkSFNyWT_eQTqFRoQ4Jzyd2dyKNLMqydQUjlC00CLnHywJQpUm_xfy38jaoJJGA8r1UFzZtCskdtYtrJ6hYO3RFoCFf3cUQf2K4UM7ODfSq01R63_pYBvlnoTja7Zk_y0acMNqLxIUdmt-qPJx-y7Cnc0Kq",
+                "width" : 1440
+             }
+          ],
+          "place_id" : "ChIJ-bLLRFGKIjERmok7W-qYx_8",
+          "plus_code" : {
+             "compound_code" : "FR3R+49 Khon Kaen, Mueang Khon Kaen District, Khon Kaen",
+             "global_code" : "7P84FR3R+49"
+          },
+          "rating" : 2.8,
+          "reference" : "ChIJ-bLLRFGKIjERmok7W-qYx_8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 6,
+          "vicinity" : "17 หมู่ที่ 13 ถนน กสิกรทุ่งสร้าง Tambon Nai Mueang, Mueang Khon Kaen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.4432751,
+                "lng" : 102.8059045
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.44450467989272,
+                   "lng" : 102.8072349298927
+                },
+                "southwest" : {
+                   "lat" : 16.44180502010728,
+                   "lng" : 102.8045352701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท ราชาโยค ขอนแก่น",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 586,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107456707672402181391\"\u003eสรศักดิ์ โพธิบัติ\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKhDxPLkWYg2ZKCljvcPZ0PljQB6spt4AGLFR2bZkcvKZAhUaHKnqrCHvjhVfkKe5o9sBXMMh6XjdYus7RrEzRI17C1uqAzpoKnxbM9JnfQIE4i6erpYbpC4r-Xgkl3AwrvCP8kGpd390tfSHPkMS8yVpfY9_gWiS87YbWIWsyopGtd",
+                "width" : 838
+             }
+          ],
+          "place_id" : "ChIJMdXU8AqKIjERsp7vp87iwUM",
+          "plus_code" : {
+             "compound_code" : "CRV4+89 Khon Kaen, Mueang Khon Kaen District, Khon Kaen",
+             "global_code" : "7P84CRV4+89"
+          },
+          "rating" : 0,
+          "reference" : "ChIJMdXU8AqKIjERsp7vp87iwUM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "621 Maliwan Rd, Ban Ped Sub-district, Mueang Khon Kaen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.4257694,
+                "lng" : 102.8331869
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.42707177989272,
+                   "lng" : 102.8345320298927
+                },
+                "southwest" : {
+                   "lat" : 16.42437212010728,
+                   "lng" : 102.8318323701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "First-son เคมีและบรรจุภัณฑ์ ขอนแก่น",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 360,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105038557304606782871\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKbvMTiJWd5EgR9NWeSrudZEJq4AG9gTqJlP3lpUpgJiyooNupS89o7V3U_sPis2x-o4fxjWtxu25U0LDdcLwIckWnmRYgdIUpfsutUICAZH7th4KNbvy6KE5GZ8Y_kOYmUMfD8DZS37xo2RTWC0LjmH062GBLZ3aJgf9x9azOGB9zy",
+                "width" : 640
+             }
+          ],
+          "place_id" : "ChIJO3Ce1U-KIjERBLKFXp4iZLc",
+          "plus_code" : {
+             "compound_code" : "CRGM+87 Khon Kaen, Mueang Khon Kaen District, Khon Kaen",
+             "global_code" : "7P84CRGM+87"
+          },
+          "rating" : 0,
+          "reference" : "ChIJO3Ce1U-KIjERBLKFXp4iZLc",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "56 Ruen Rom, Tambon Nai Mueang, Mueang Khon Kaen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.2478937,
+                "lng" : 103.0722375
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.24919642989272,
+                   "lng" : 103.0736892798927
+                },
+                "southwest" : {
+                   "lat" : 16.24649677010727,
+                   "lng" : 103.0709896201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ร้านไทยเจริญพาณิชย์สาขาโกสุมพิสัย",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2736,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108457395682687358022\"\u003eชฎาพร ศรีสุภผลโภชน์\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJOhkf95kMA9KAUnkyI0Xkjjk2_qhYHHHLhsLMFaAvSiG0mSk8mRmyZdTwrpsiVyD9TxejpXjRGrdPu-iVZ1ZSfUf35rYoGViJlGWjRLYtxBP6Uq8JbIb1bXFAucJ4eZ82PzEHF03J8rT7sBWPqv3u27bQ9IMkUbWRSN4ZW0K5t29P6",
+                "width" : 3648
+             }
+          ],
+          "place_id" : "ChIJq6qqqt2bIjER_YEWZJpnqfM",
+          "plus_code" : {
+             "compound_code" : "63XC+5V Hua Khwang, Kosum Phisai District, Maha Sarakham",
+             "global_code" : "7P8563XC+5V"
+          },
+          "rating" : 5,
+          "reference" : "ChIJq6qqqt2bIjER_YEWZJpnqfM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "277/4 หมู่ที่ 11 Hua Khwang, Kosum Phisai District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.7035783,
+                "lng" : 103.0646559
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.70497042989272,
+                   "lng" : 103.0660066298927
+                },
+                "southwest" : {
+                   "lat" : 16.70227077010727,
+                   "lng" : 103.0633069701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท นคร เคมิคอล จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 642,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109895525726262111337\"\u003eSuteeput yingjareanjobjig\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIJNf1NZwxxwKdGSERcO7xZ3yV0L9qobQa9b0ydY17d-ZmJFSnSunx3xnC-PRdYchGTtbGOMhu3Oc6kEjvvaJUjw4IWxO06yeZP48uMmSFAO9s52CPDP26beX2zbd8lKp_f8HDVSKVub8VyBtNXF-8J_p7kawJKp9hmhA-dJCf9NRg",
+                "width" : 1621
+             }
+          ],
+          "place_id" : "ChIJq-HPOoDnIjERvTSBmexLcNA",
+          "plus_code" : {
+             "compound_code" : "P337+CV Nong Ko, Kranuan District, Khon Kaen",
+             "global_code" : "7P85P337+CV"
+          },
+          "rating" : 5,
+          "reference" : "ChIJq-HPOoDnIjERvTSBmexLcNA",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "999 Nong Ko, Kranuan District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.4344457,
+                "lng" : 102.8362072
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.43580742989272,
+                   "lng" : 102.8374700798927
+                },
+                "southwest" : {
+                   "lat" : 16.43310777010727,
+                   "lng" : 102.8347704201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "พีระศักดิ์ เคมีภัณฑ์ และ บรรจุภัณฑ์ขอนแก่น",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102277457574729945348\"\u003eปัญจพล ทิวามังคละ\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIbEu2DJP4aIvlf3AyDHDgvRReHT5mQJaJjcX5yllb4eMwvLub5o9iJFTppn3xAVno39KW8XeDZpU0TPLTlBmOLCT1pk-Sy-jM79I-d19vjmyXz0sUjHZpX6C-uyvdAhsFoLHwvmPhU7h7F3YEMyfrJPhropHUsoNwNpHC64XJoentT",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJizzqDzuKIjERIzRZMNW4Tn8",
+          "plus_code" : {
+             "compound_code" : "CRMP+QF Khon Kaen, Mueang Khon Kaen District, Khon Kaen",
+             "global_code" : "7P84CRMP+QF"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJizzqDzuKIjERIzRZMNW4Tn8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 57,
+          "vicinity" : "77 8-10 Glang Muang Rd, ในเมืองขอนแก่น Mueang Khon Kaen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.44975,
+                "lng" : 102.787228
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.45110842989272,
+                   "lng" : 102.7885793298927
+                },
+                "southwest" : {
+                   "lat" : 16.44840877010728,
+                   "lng" : 102.7858796701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ห้างหุ้นส่วนจำกัด พีเคซี อินสตรูเมนท์",
+          "place_id" : "ChIJYwC_dsFhIjERnL4zbbTEo44",
+          "plus_code" : {
+             "compound_code" : "CQXP+VV Khon Kaen, Mueang Khon Kaen District, Khon Kaen",
+             "global_code" : "7P84CQXP+VV"
+          },
+          "rating" : 0,
+          "reference" : "ChIJYwC_dsFhIjERnL4zbbTEo44",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "529/198 มลิวรรณ, ตำบลบ้านเป็ด อำเภอเมืองขอนแก่น จังหวัดขอนแก่น, 40000"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.4648206,
+                "lng" : 102.8242757
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.46620412989272,
+                   "lng" : 102.8256300298927
+                },
+                "southwest" : {
+                   "lat" : 16.46350447010728,
+                   "lng" : 102.8229303701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Union Science Trading",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJtSeSoWGKIjERyxIdjTWqZpE",
+          "plus_code" : {
+             "compound_code" : "FR7F+WP Khon Kaen, Mueang Khon Kaen District, Khon Kaen",
+             "global_code" : "7P84FR7F+WP"
+          },
+          "rating" : 5,
+          "reference" : "ChIJtSeSoWGKIjERyxIdjTWqZpE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "455 14 Mittraphap Rd, Nai Mueang, Mueang Khon Kaen District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 16.4741162,
+                "lng" : 102.8278044
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 16.47544137989273,
+                   "lng" : 102.8293005798927
+                },
+                "southwest" : {
+                   "lat" : 16.47274172010728,
+                   "lng" : 102.8266009201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+          "name" : "KKU Smart Learning Academy",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103252316811391331884\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKhP3grYN2ZfFurm2lRbVGnN7Khgc3uyCyu4q0Pr4byZB_VTdoWM9NMhxhKRA_Vlb0-wZ1E1zFxwzTdI8d6395Cvm6QvyZhj49kZHmycPdq1-jYxDbajJbHI4pKSehOMl-t8Mk7jgyzTpDi-Ppr1-LUtevHbZOGkv1zIbHvJDo2MBwH",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJczYqkUKKIjER2SEKil7tNuI",
+          "plus_code" : {
+             "compound_code" : "FRFH+J4 Khon Kaen, Mueang Khon Kaen District, Khon Kaen",
+             "global_code" : "7P84FRFH+J4"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJczYqkUKKIjER2SEKil7tNuI",
+          "scope" : "GOOGLE",
+          "types" : [ "university", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 55,
+          "vicinity" : "อาคารแก่นมอดินแดง มหาวิทยาลัยขอนแก่น Mueang Khon Kaen District"
+       }
+    ],
+    "status" : "OK"
+ }
