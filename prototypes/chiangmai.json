@@ -1,0 +1,791 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwLQsNiLyNIbdd9Bnvc-aPibV1H2Zhs6u5egLldtsCE7Lpei-hJ6NQz5VmmnYDXhDKiUeyQC84v0m5QY-0J6n64HOfNmHIJz_-GInG5ikXpPx-LHB7k5-5wJwcudw34n8oQFVZgvqTRMnqKA8N63nfYMmSxY0l-CQx0w3d4Oa58L-Oo-YO_BV6ZV9xJ9TCYSuIb6ry8PR9lWwoCkWmcIxPoakIuB2THhGy0pI3r8szc-qbPct5Kf2BiGf7L1W21oY0czFZNNzQbVM8PSxs2bpYprI49bmJb6_xrrrY9Ax4YQp6XlAiH55lZCR3Su3SPAzB6XPaUQJI2x8Aucqzavx-J_K2iNan3xE2hM5P4bcahgBX397pTZDn7R2DQx9yT8jjAIwJTqvvFGoi4LyP8yvaCbpL3PwatLvfzMcQAR9emuyjiDbK3DE0hvria3Vl4Vs8yqHg",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.8074282,
+                "lng" : 98.97192889999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.80876432989272,
+                   "lng" : 98.97335537989272
+                },
+                "southwest" : {
+                   "lat" : 18.80606467010728,
+                   "lng" : 98.97065572010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Northern Chemicals",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJzbzP5PQ62jARweF8dZmRZ-8",
+          "plus_code" : {
+             "compound_code" : "RX4C+XQ Chiang Mai, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCWRX4C+XQ"
+          },
+          "rating" : 3,
+          "reference" : "ChIJzbzP5PQ62jARweF8dZmRZ-8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "Chang Phueak, Mueang Chiang Mai District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.7625521,
+                "lng" : 98.99455329999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.76387512989272,
+                   "lng" : 98.99587902989272
+                },
+                "southwest" : {
+                   "lat" : 18.76117547010728,
+                   "lng" : 98.99317937010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "World Chemical",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104166533888126290192\"\u003eyongyuth theprian\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwL__5zM7NTliYo-9p0SxUGh6vm798KstH57vOpo3gDFlojJE3uqeSv5CrBctypj3cKMHZrJTCchk1LO831RNgPdMP4Gf89RPq4LBlutrj4sGLdHTn7oogPtPsJViSj_rhBKmmCUjCzEQ244eWC5LnoabK6Te7_i5ycDQDGakjtrIKsa",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJhdd8WlAw2jARhQhItFqEoec",
+          "plus_code" : {
+             "compound_code" : "QX7V+2R Pa Daet Sub-district, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCWQX7V+2R"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJhdd8WlAw2jARhQhItFqEoec",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 55,
+          "vicinity" : "ป่าแดด 261/3-6, ถนนมหิดล, ตำบลป่าแดด อำเภอเมืองเชียงใหม่ เมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.741392,
+                "lng" : 98.9721024
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.74283672989272,
+                   "lng" : 98.97344207989273
+                },
+                "southwest" : {
+                   "lat" : 18.74013707010728,
+                   "lng" : 98.97074242010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "BBT CHEMICAL",
+          "place_id" : "ChIJPbPPj1Yw2jAR_LW4uagiv08",
+          "plus_code" : {
+             "compound_code" : "PXRC+HR Pa Daet Sub-district, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCWPXRC+HR"
+          },
+          "rating" : 0,
+          "reference" : "ChIJPbPPj1Yw2jAR_LW4uagiv08",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "175/1 Somphot Chiang Mai 700 Pi Rd, Pa Daet Sub-district, Mueang Chiang Mai District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.8073057,
+                "lng" : 98.9714965
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.80863012989272,
+                   "lng" : 98.97287902989272
+                },
+                "southwest" : {
+                   "lat" : 18.80593047010728,
+                   "lng" : 98.97017937010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "หจก.นอร์ทเทอร์นเคมิเคิล แอนด์ กลาสแวร์",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1776,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117148694752717092394\"\u003eNorthern Chemicals\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLh8n7zcviPzzFzNaHvqlw5FnUZy3GwDBx5AhzJCYGiS5Eb2HarJpj6-we_WX3Oic1C23hckY7wvcQBbekP7VOxUj4B-vWPddYjbqyJWLeQliaPSETjdSDEZAc851DPPqVdpAFrPCd8jqKP_gCgQoBwIoe57HypFR4-yLsQrwN0Ss0H",
+                "width" : 1125
+             }
+          ],
+          "place_id" : "ChIJn4vn4_Q62jARFri_PylEc9s",
+          "plus_code" : {
+             "compound_code" : "RX4C+WH Chiang Mai, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCWRX4C+WH"
+          },
+          "rating" : 3,
+          "reference" : "ChIJn4vn4_Q62jARFri_PylEc9s",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "Chang Phueak, Mueang Chiang Mai District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.827377,
+                "lng" : 99.18038399999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.82881047989272,
+                   "lng" : 99.18177237989272
+                },
+                "southwest" : {
+                   "lat" : 18.82611082010728,
+                   "lng" : 99.17907272010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ร้านป่าไผ่การเกษตรและเคมีภัณฑ์",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 720,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116688891759429020352\"\u003eร้านป่าไผ่การเกษตรและเคมีภัณฑ์\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJBFS51HMk-K7qPEZZ8WM9gQVIO_BmZxCisJTlfvv0qkq6y71auObuXAoU5DPgMxZjuUAhSxewLdbqPLcWzDlULNotEOx-_rTj4NHHwAgcp9w8yKFWkCLdT_l0HW2hpJtWXMK-FxAsAJlSzTl6ehArmOBhs21_YyNaQMOM6FIdAKqM",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJ99IEAMCK2TAR9mmYExxa-VY",
+          "plus_code" : {
+             "compound_code" : "R5GJ+X5 Mae Pong, Doi Saket District, Chiang Mai",
+             "global_code" : "7MCXR5GJ+X5"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ99IEAMCK2TAR9mmYExxa-VY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "หมู่ 2 บ้าน ป่า ไผ่ แม่โป่ง ดอยสะเก็ด"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.7336348,
+                "lng" : 99.1121656
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.73490732989272,
+                   "lng" : 99.11363512989273
+                },
+                "southwest" : {
+                   "lat" : 18.73220767010728,
+                   "lng" : 99.11093547010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เคมีก้า อินโนเวชั่น จำกัด © Chemika Innovation Co., Ltd.",
+          "opening_hours" : {},
+          "place_id" : "ChIJf7z4TQAp2jAR_NQL6Ss3hnI",
+          "plus_code" : {
+             "compound_code" : "P4M6+FV San Kamphaeng, San Kamphaeng District, Chiang Mai",
+             "global_code" : "7MCXP4M6+FV"
+          },
+          "rating" : 0,
+          "reference" : "ChIJf7z4TQAp2jAR_NQL6Ss3hnI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "หมู่ที่ 8 244 Chae Chang, San Kamphaeng District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.5532165,
+                "lng" : 99.04741629999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.55466952989272,
+                   "lng" : 99.04893217989273
+                },
+                "southwest" : {
+                   "lat" : 18.55196987010728,
+                   "lng" : 99.04623252010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "World Chemical",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 360,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116525799961187465171\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwL3IJK8qS2ErRxaBVpIadTVr8XImoy8lICIoOMz5IhcQGmUqfaQbG64XtytMsSqlIQHs2MFMm-2XMFL15-sdJSF-eYqyMFfnDsTKYz_lc0TQheRgvob0Wg7EYbHT0SmHNOBjJKQQyYOHgIWcHLwvQbnneziIwtv1UNYpBw6HP4Bb1Yt",
+                "width" : 480
+             }
+          ],
+          "place_id" : "ChIJp022vPrS2zARhRI6kLGo6hA",
+          "plus_code" : {
+             "compound_code" : "H23W+7X Pa Sak, Mueang Lamphun District, Lamphun",
+             "global_code" : "7MCXH23W+7X"
+          },
+          "rating" : 0,
+          "reference" : "ChIJp022vPrS2zARhRI6kLGo6hA",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "109 หมู่ 2 Pa Sak, Mueang Lamphun District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.7561899,
+                "lng" : 99.00054009999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.75754857989272,
+                   "lng" : 99.00194567989273
+                },
+                "southwest" : {
+                   "lat" : 18.75484892010727,
+                   "lng" : 98.99924602010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "United Chemical and Trading Co.,Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1478,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117041326390980366813\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIE76EYaMqzjD8mpR9WdWD_n0u5cOJWV6pfnH2jKQbKrUMzuXSVVU_bBKIOFeNHZVwetFEI9PyW_0L38kKsJW1envDYQNmeqL_QKYYK0EK5Ddx7VUvibJ_u1T9sQlna5Gz1BmshiXRC8_rahNzPbw3VQLBZJ2vgn-W-B1w9KVgAb4Yk",
+                "width" : 1108
+             }
+          ],
+          "place_id" : "ChIJUy2E0WUx2jARZ5LpkMApFVo",
+          "plus_code" : {
+             "compound_code" : "Q242+F6 Pa Daet Sub-district, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCXQ242+F6"
+          },
+          "rating" : 0,
+          "reference" : "ChIJUy2E0WUx2jARZ5LpkMApFVo",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "โครงการ K-Park เลขที่ 111 18 ซอย 2 อ.เมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.7429878,
+                "lng" : 99.00819439999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.74443267989272,
+                   "lng" : 99.00952717989271
+                },
+                "southwest" : {
+                   "lat" : 18.74173302010728,
+                   "lng" : 99.00682752010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บมจ.พีรพัฒน์ เทคโนโลยี สาขาเชียงใหม่",
+          "photos" : [
+             {
+                "height" : 722,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114102302813911301138\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKQmRyaJ2MiCIy7iTFNXV2zzKNwdAfNKcbuMZG7aR637PRuSl_eVFaR7ZcmQBI-uynXQjrwsmRPo7c9b2XM-Y5XsYYIOR9JxaVe8nf0qWqvRh_9Z3MsWY4NsoxwxVKQk5HnSXfW4Cp96PvhQ2pwsZmWmxgT8EKiN2WOQYu1F_TB8WqX",
+                "width" : 1009
+             }
+          ],
+          "place_id" : "ChIJG4IdViQx2jAR2CAYsNtMV6M",
+          "plus_code" : {
+             "compound_code" : "P2V5+57 Nong Phueng, Saraphi District, Chiang Mai",
+             "global_code" : "7MCXP2V5+57"
+          },
+          "rating" : 5,
+          "reference" : "ChIJG4IdViQx2jAR2CAYsNtMV6M",
+          "scope" : "GOOGLE",
+          "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "369 หมู่ 1 ถนนวงแหวนรอบกลาง Nong Phueng, Saraphi District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.6669544,
+                "lng" : 99.0935875
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.66830287989272,
+                   "lng" : 99.09494197989272
+                },
+                "southwest" : {
+                   "lat" : 18.66560322010728,
+                   "lng" : 99.09224232010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "M. V. K. Chemical Company Limited",
+          "place_id" : "ChIJ17d-_Q4s2jARxvuY8kfzyZ8",
+          "plus_code" : {
+             "compound_code" : "M38V+QC Ban Thi, Ban Thi District, Lamphun",
+             "global_code" : "7MCXM38V+QC"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ17d-_Q4s2jARxvuY8kfzyZ8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Ban Thi, Ban Thi District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.7555408,
+                "lng" : 99.0007262
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.7576567,
+                   "lng" : 99.00228337989272
+                },
+                "southwest" : {
+                   "lat" : 18.7548355,
+                   "lng" : 98.99958372010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "United Chemical and Trading Company Limited",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112897583714135405780\"\u003eบริษัทยูไนเต็ดเคมีคอลแอนด์เทรดดิ้ง จำกัด\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJB7mm942NB5KCeGcpVcNTJ7MTuv2KcLYGF0zJpdTh9uQx5jP0sKKGkcPk8jgIzvpmm8ySEmLEfLvUQH-WPHYYocV3O1f9-v4bTg2X8-zqf0FWhgePSwS27yq7BIF0onY2elRz1MCL9Qgr1EFcI03yFnl8-qhg6mQuztOy02ZCmyveU",
+                "width" : 2448
+             }
+          ],
+          "place_id" : "ChIJSVf4E-Ev2jARIGXPqabQ0F0",
+          "plus_code" : {
+             "compound_code" : "Q242+67 Pa Daet Sub-district, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCXQ242+67"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJSVf4E-Ev2jARIGXPqabQ0F0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 3,
+          "vicinity" : "111/18 โครงการ K-Park Mahidol Rd, อ.เมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.7956663,
+                "lng" : 98.9715576
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.79702362989272,
+                   "lng" : 98.97290877989272
+                },
+                "southwest" : {
+                   "lat" : 18.79432397010728,
+                   "lng" : 98.97020912010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "053 Chemical Brothers Barber & Salon",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 810,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112004376971875190822\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwK1AhEXiKCJmX7wvJY22kxn_7fawK4_zRoeJi9QJg1pi8a-kND_fktfiJR7rAB21zwqEGnyi3js18WGNNuGLFcHlUDihsFVm8Npz3Rl7pKIryH0_vC0RrSY5GeZvbhzmfSAEA-bxPHfDtRcvcM1xl6Uw7qsRK5w_fb4SdIdnAQhCmQF",
+                "width" : 1440
+             }
+          ],
+          "place_id" : "ChIJfYC594g62jARV5XOW37p1sE",
+          "plus_code" : {
+             "compound_code" : "QXWC+7J Chiang Mai, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCWQXWC+7J"
+          },
+          "rating" : 4.9,
+          "reference" : "ChIJfYC594g62jARV5XOW37p1sE",
+          "scope" : "GOOGLE",
+          "types" : [ "hair_care", "health", "point_of_interest", "store", "establishment" ],
+          "user_ratings_total" : 43,
+          "vicinity" : "16/1 Siri Mangkalajarn Rd Lane 5, Tambon Su Thep, อ.เมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.6397746,
+                "lng" : 99.04178789999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.64117792989272,
+                   "lng" : 99.04314017989273
+                },
+                "southwest" : {
+                   "lat" : 18.63847827010728,
+                   "lng" : 99.04044052010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Bavornpon Chemical",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJsQhoHxLN2zARJZji_anJYXg",
+          "plus_code" : {
+             "compound_code" : "J2QR+WP Umong, Mueang Lamphun District, Lamphun",
+             "global_code" : "7MCXJ2QR+WP"
+          },
+          "rating" : 0,
+          "reference" : "ChIJsQhoHxLN2zARJZji_anJYXg",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "232 อำเภอเมือง Mueang Lamphun District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.807805,
+                "lng" : 98.9789196
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.80915367989272,
+                   "lng" : 98.98027847989272
+                },
+                "southwest" : {
+                   "lat" : 18.80645402010727,
+                   "lng" : 98.97757882010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "C.M. Chemical & Lab Supplies LTD.,PART",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1702,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109930919107156084776\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwL7dLRFfL7HjoQaDrVenJUPhYN6bsroM7WQ4fp_wkIFqNG_UrUv7RUAiH6qtLacZJztE5C_0miIRgsvesbmQoB1He9_Agx-DG2sOFLiiQ0D0rK7C-OgeUypNHA6hzm8X1_vLS3iEfXY2cg8JEmjsEVXBpOzGTi2UM5e4wk-A7EUVr-s",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJ6_azLpc62jARTwrcT_kHhRE",
+          "plus_code" : {
+             "compound_code" : "RX5H+4H Chiang Mai, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCWRX5H+4H"
+          },
+          "rating" : 4.9,
+          "reference" : "ChIJ6_azLpc62jARTwrcT_kHhRE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "store", "establishment" ],
+          "user_ratings_total" : 8,
+          "vicinity" : "11 Chotana Soi 6, ต.ช้างเผือก Mueang Chiang Mai District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.66771,
+                "lng" : 99.093396
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.66900032989272,
+                   "lng" : 99.09493602989272
+                },
+                "southwest" : {
+                   "lat" : 18.66630067010728,
+                   "lng" : 99.09223637010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "M.V. Chemical Co., Ltd.",
+          "place_id" : "ChIJP3sABg8s2jARj2R4o8kuwcw",
+          "plus_code" : {
+             "compound_code" : "M39V+39 Ban Thi, Ban Thi District, Lamphun",
+             "global_code" : "7MCXM39V+39"
+          },
+          "rating" : 5,
+          "reference" : "ChIJP3sABg8s2jARj2R4o8kuwcw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Ban Thi, Ban Thi, Lamphun, 51180"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.6856643,
+                "lng" : 99.14077879999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.68704937989272,
+                   "lng" : 99.14210132989272
+                },
+                "southwest" : {
+                   "lat" : 18.68434972010727,
+                   "lng" : 99.13940167010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ไพศาล พาณิชย์ การเกษตร",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJY0ECTnkp2jARdSakNqtsxso",
+          "plus_code" : {
+             "compound_code" : "M4PR+78 Huai Yap, Ban Thi District, Lamphun",
+             "global_code" : "7MCXM4PR+78"
+          },
+          "rating" : 0,
+          "reference" : "ChIJY0ECTnkp2jARdSakNqtsxso",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "15 ม.10 Huai Yap, Ban Thi District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.8073208,
+                "lng" : 98.9714793
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.80863817989272,
+                   "lng" : 98.97287087989272
+                },
+                "southwest" : {
+                   "lat" : 18.80593852010728,
+                   "lng" : 98.97017122010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ห้างหุ้นส่วนจำกัดนอร์ทเทอร์นเคมิเคิล",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJjeqaHPU62jAROMTwPmQTTn4",
+          "plus_code" : {
+             "compound_code" : "RX4C+WH Chiang Mai, Mueang Chiang Mai District, Chiang Mai",
+             "global_code" : "7MCWRX4C+WH"
+          },
+          "rating" : 1,
+          "reference" : "ChIJjeqaHPU62jAROMTwPmQTTn4",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "154/2 หมู่ 2 ถ ถนน ซุปเปอร์ไฮเวย์ เชียงใหม่-ลำปาง Mueang Chiang Mai District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.8012571,
+                "lng" : 99.06372739999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.80259582989272,
+                   "lng" : 99.06500712989272
+                },
+                "southwest" : {
+                   "lat" : 18.79989617010728,
+                   "lng" : 99.06230747010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัทลิ้มศักดากุลเคมีเกษตร จำกัด(ท่ารั้ว)",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2322,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114780857082152370971\"\u003eWeerachai Doungban\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIyIRoFUb1blqpVlKJ5uE-eSuL4VvpD5nJnD3mQUI0zqyfoQDUP3SPD1w3_G0Wk5FKZv6NrhrWf2gtypAhKHV34g34btElUsivuBzxsgfmlXDPWDtRnVE7cwK_7VCMWjRyaXtQP4KAS-Gw8VG-KOKYUE4XWZJqQ-XRsJRs49mlquagW",
+                "width" : 4128
+             }
+          ],
+          "place_id" : "ChIJVS0SCaIl2jARp0HhWKb4XqI",
+          "plus_code" : {
+             "compound_code" : "R327+GF San Pu Loei, Doi Saket District, Chiang Mai",
+             "global_code" : "7MCXR327+GF"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJVS0SCaIl2jARp0HhWKb4XqI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4,
+          "vicinity" : "Chiang Mai Outer Ring Rd, สันปูเลย ดอยสะเก็ด"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.7808318,
+                "lng" : 99.0910883
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.78212742989272,
+                   "lng" : 99.09242637989273
+                },
+                "southwest" : {
+                   "lat" : 18.77942777010728,
+                   "lng" : 99.08972672010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Paphada Cosmetic",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJCcXX0Cgl2jARHVOlb1SRDBw",
+          "plus_code" : {
+             "compound_code" : "Q3JR+8C Mae Khue, Doi Saket District, Chiang Mai",
+             "global_code" : "7MCXQ3JR+8C"
+          },
+          "rating" : 0,
+          "reference" : "ChIJCcXX0Cgl2jARHVOlb1SRDBw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Ton Pao, San Kamphaeng District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.84411,
+                "lng" : 99.0861012
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.84531967989272,
+                   "lng" : 99.08738182989272
+                },
+                "southwest" : {
+                   "lat" : 18.84262002010728,
+                   "lng" : 99.08468217010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ไอบัท เอเซีย จำกัด",
+          "opening_hours" : {},
+          "place_id" : "ChIJaXZNqjwk2jARcCosJz4LSto",
+          "plus_code" : {
+             "compound_code" : "R3VP+JC Talat Khwan, Doi Saket District, Chiang Mai",
+             "global_code" : "7MCXR3VP+JC"
+          },
+          "rating" : 0,
+          "reference" : "ChIJaXZNqjwk2jARcCosJz4LSto",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "133/110 Soi Mu Ban Ban Thawi Chok 3, Talat Khwan, Doi Saket District"
+       }
+    ],
+    "status" : "OK"
+ }
