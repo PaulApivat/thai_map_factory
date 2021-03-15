@@ -1,0 +1,754 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwLrYRNM7q2D85MHVKXCf8QNqD3mgdhU_f0QopndGBbih5T5W5hkYG9G-rqTNr4uYlNdhNxU9aAkft12saO2nPlYL2_WytFMwieDhJ_dVNMjC2lpG98SLmIA2CwftchM89FLaFIPSEwCi6KAA725pGaCdm9D51TXZAaHBvUSd1RmzoxFjS7OHaAAq6vAw-XXvxTFtC1f3Numm2uY1BDlg63JF38idGlNppshVj9kuZ-7Z51kXdRIwS6HAiu1R_REQuIvWGozwL8mRNzYuN1WxAucXuq0SDo4-JkH07LXwyj-ZOSkcz96cdUWAz9dh6PmyIa3wVTA1L3_UBzlI2mgo1Fr9O25F840Yyr6llXjNvKIYJvdHz8vtHgyo2OXXLLWRbyQXYLFpNdv1sYAa-Kaxe0z1yMldOW-I60M3Xp69xCAHQJ6LJi4tpzskM3ZQQQkkop4nA",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7615811,
+                "lng" : 100.6028474
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.76286852989272,
+                   "lng" : 100.6041420298927
+                },
+                "southwest" : {
+                   "lat" : 13.76016887010728,
+                   "lng" : 100.6014423701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Chemical House & Lab Instrument Co.,LTD",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJF6HwIxee4jARrEj_lors9Lc",
+          "plus_code" : {
+             "compound_code" : "QJ63+J4 Bangkok",
+             "global_code" : "7P52QJ63+J4"
+          },
+          "rating" : 0,
+          "reference" : "ChIJF6HwIxee4jARrEj_lors9Lc",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "98 ซอย รามคำแหง 21 Phlabphla, Wang Thonglang"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6606763,
+                "lng" : 100.6272467
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.66202562989272,
+                   "lng" : 100.6287137798927
+                },
+                "southwest" : {
+                   "lat" : 13.65932597010728,
+                   "lng" : 100.6260141201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Chemical Asia Company Limited",
+          "place_id" : "ChIJ7_t3wYxfHTER8jC0Xx3y53U",
+          "plus_code" : {
+             "compound_code" : "MJ6G+7V Bangkok",
+             "global_code" : "7P52MJ6G+7V"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ7_t3wYxfHTER8jC0Xx3y53U",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "12/15 Sukhumvit Rd, Bang Na , 10260, Bang Na"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7428327,
+                "lng" : 100.5615333
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.74402447989272,
+                   "lng" : 100.5628503798927
+                },
+                "southwest" : {
+                   "lat" : 13.74132482010728,
+                   "lng" : 100.5601507201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Indorama Chemicals (Thailand) Ltd.",
+          "place_id" : "ChIJJX3G30-e4jARRqbPGuebx8k",
+          "plus_code" : {
+             "compound_code" : "PHV6+4J Bangkok",
+             "global_code" : "7P52PHV6+4J"
+          },
+          "rating" : 0,
+          "reference" : "ChIJJX3G30-e4jARRqbPGuebx8k",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "75/64-65 Ocean Tower 2, 28th Floor, Sukhumvit 19, Asoke Rd., Klongtoey Nuer Wattana, Bangkok 10110"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7680492,
+                "lng" : 100.6089008
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.76937157989272,
+                   "lng" : 100.6102835798927
+                },
+                "southwest" : {
+                   "lat" : 13.76667192010728,
+                   "lng" : 100.6075839201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Superior Chemical Industry (Thailand) Company Limited",
+          "opening_hours" : {},
+          "place_id" : "ChIJd_-MeQWe4jARzKAAjhCfgKQ",
+          "plus_code" : {
+             "compound_code" : "QJ95+6H Bangkok",
+             "global_code" : "7P52QJ95+6H"
+          },
+          "rating" : 1,
+          "reference" : "ChIJd_-MeQWe4jARzKAAjhCfgKQ",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Bangkok"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7409059,
+                "lng" : 100.5615844
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.74224592989272,
+                   "lng" : 100.5631219298927
+                },
+                "southwest" : {
+                   "lat" : 13.73954627010728,
+                   "lng" : 100.5604222701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Siam Chemical Industry Co., Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112840395428310302498\"\u003ePIYA SOPHONTHAMVATEE\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJMcqmzs2kPz0qnQMoAHnp09I0VxaM7odfBXQKYHH9nb4ZL7n3EDa51MdFAfALB1sG4HyPEEehkt92V5pKthhezTblHiCVraE0tOviCVmA4E80DmT6r5r_3ueW1pXDGOjTXMcmd-ZQPKBHhVPItIQlp26BZ0tc3WKUsvHML0nG4IS3N",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJ-StQ5OSe4jARj_Vngi-Ba3U",
+          "plus_code" : {
+             "compound_code" : "PHR6+9J Bangkok",
+             "global_code" : "7P52PHR6+9J"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJ-StQ5OSe4jARj_Vngi-Ba3U",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 6,
+          "vicinity" : "159/34 Serm-Mit Tower 20th Floor, Road (Asoke), North Klongtoey, Wattana,, 21 Sukhumvit Rd"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.729074,
+                "lng" : 100.5260154
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.73046642989272,
+                   "lng" : 100.5274188298927
+                },
+                "southwest" : {
+                   "lat" : 13.72776677010728,
+                   "lng" : 100.5247191701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "President Chemical Company Limited",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJdR8WvCuf4jARQTpOWxeg764",
+          "plus_code" : {
+             "compound_code" : "PGHG+JC Bangkok",
+             "global_code" : "7P52PGHG+JC"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJdR8WvCuf4jARQTpOWxeg764",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 3,
+          "vicinity" : "54/15-17 Thanon Surawong, Si Phraya, Bang Rak"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.8058794,
+                "lng" : 100.5375315
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.80726162989272,
+                   "lng" : 100.5388019298927
+                },
+                "southwest" : {
+                   "lat" : 13.80456197010728,
+                   "lng" : 100.5361022701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "SCG Chemicals",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 682,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116943852102416274920\"\u003eWaowithu W\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLQo-rmuVwy-OyIqGZ6z4b5hgmmIwgW71TUsw-mqGvkKdXPJ5Zmo1k4nWGivqEMk844wDg2dRZFRQwKmPdvZ5lXNddnjDZP4jY7ZkRQUw9pVbx95bDGcmGkAEkvPGCF6SMtfW1_vQmjJMGTVrJSvT81KeWF9g1Xq3uEf0UGSHMi6R7Q",
+                "width" : 1023
+             }
+          ],
+          "place_id" : "ChIJHWPZrXOc4jARyj08WEOn5RI",
+          "plus_code" : {
+             "compound_code" : "RG4Q+92 Bangkok",
+             "global_code" : "7P52RG4Q+92"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJHWPZrXOc4jARyj08WEOn5RI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 43,
+          "vicinity" : "1 Siam Cement Alley, Bang Sue"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7075456,
+                "lng" : 100.5318968
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.70898552989272,
+                   "lng" : 100.5331933798927
+                },
+                "southwest" : {
+                   "lat" : 13.70628587010728,
+                   "lng" : 100.5304937201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท วี.ซี. เคมิคอลส์ จำกัด V.C. Chemicals Co., Ltd",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJ9dY2hEyf4jARMdEyY9XLtno",
+          "plus_code" : {
+             "compound_code" : "PG5J+2Q Bangkok",
+             "global_code" : "7P52PG5J+2Q"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ9dY2hEyf4jARMdEyY9XLtno",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "178 Soi Chan 16, Thung Wat Don, Sathon"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.71804,
+                "lng" : 100.590477
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.71944172989272,
+                   "lng" : 100.5917554798927
+                },
+                "southwest" : {
+                   "lat" : 13.71674207010728,
+                   "lng" : 100.5890558201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บจก. ดาว เคมิคอล ประเทศไทย",
+          "place_id" : "ChIJQ-Z7puOe4jAROVFpCAEOaOE",
+          "plus_code" : {
+             "compound_code" : "PH9R+65 Bangkok",
+             "global_code" : "7P52PH9R+65"
+          },
+          "rating" : 0,
+          "reference" : "ChIJQ-Z7puOe4jAROVFpCAEOaOE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "75 อาคารไวท์กรุ๊ป 2, ถนนสุขุมวิท 42, แขวงพระโขนง เขตคลองเตย กทม, 10110"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7586884,
+                "lng" : 100.5678816
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.75990582989272,
+                   "lng" : 100.5692002298927
+                },
+                "southwest" : {
+                   "lat" : 13.75720617010728,
+                   "lng" : 100.5665005701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Eastman Chemical Company",
+          "place_id" : "ChIJs37bj92e4jARZMEPq11MVW8",
+          "plus_code" : {
+             "compound_code" : "QH59+F5 Bangkok",
+             "global_code" : "7P52QH59+F5"
+          },
+          "rating" : 0,
+          "reference" : "ChIJs37bj92e4jARZMEPq11MVW8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "33/4 The 9th Tower Grand Rama 9, Tower A, 24th Fl., TNA 05, Rama IX Rd, Huai Khwang"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.687625,
+                "lng" : 100.6872808
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.68908402989272,
+                   "lng" : 100.6883968298927
+                },
+                "southwest" : {
+                   "lat" : 13.68638437010728,
+                   "lng" : 100.6856971701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Civic Chemical LP.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 364,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112077163287756902010\"\u003eหจก. ซิวิค เคมิคอล\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIanSqFXU9_QWWDzNhnXluWozTVIf3U9MhPQ2dlGkPNRHik9ttgHppCGEBngsFsAIi2u0x0b6A_zmH6Ync--OdlxhOsFPWf53vV8tdzboEKB01Ni1s9ZCAqYFhj2hG_zFpNcHmcbNMzFQ5URwfigFS7BYk4BHAOtxHIbnjTYzK0r7Dv",
+                "width" : 548
+             }
+          ],
+          "place_id" : "ChIJF1r9VJ9gHTERQ88nMF4LZ_o",
+          "plus_code" : {
+             "compound_code" : "MMQP+2W Bangkok",
+             "global_code" : "7P52MMQP+2W"
+          },
+          "rating" : 3,
+          "reference" : "ChIJF1r9VJ9gHTERQ88nMF4LZ_o",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "28/1 ซ.เฉลิมพระเกียรติฯ 30 แยก 15 แขวงดอกไม้"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6698401,
+                "lng" : 100.6219947
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.67116277989272,
+                   "lng" : 100.6233388798927
+                },
+                "southwest" : {
+                   "lat" : 13.66846312010728,
+                   "lng" : 100.6206392201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Thepthai Chemical Corp.,Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJo83SkvFfHTERl0jdMQD5tnI",
+          "plus_code" : {
+             "compound_code" : "MJ9C+WQ Bangkok",
+             "global_code" : "7P52MJ9C+WQ"
+          },
+          "rating" : 5,
+          "reference" : "ChIJo83SkvFfHTERl0jdMQD5tnI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "หมู่ที่ 12 21/573 Bang Na-Trat Frontage Rd, Bang Na"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.719568,
+                "lng" : 100.6022209
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.72126507989272,
+                   "lng" : 100.6033663798927
+                },
+                "southwest" : {
+                   "lat" : 13.71856542010728,
+                   "lng" : 100.6006667201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Utica Chemical Co. Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJye8FBsaf4jAR-I8tGzxJYn0",
+          "plus_code" : {
+             "compound_code" : "PJ92+RV Bangkok",
+             "global_code" : "7P52PJ92+RV"
+          },
+          "rating" : 0,
+          "reference" : "ChIJye8FBsaf4jAR-I8tGzxJYn0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "184 Pridi Banomyong 14 Alley, Phra Khanong Nuea, Watthana"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7887567,
+                "lng" : 100.6288392
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.79016492989272,
+                   "lng" : 100.6301775298927
+                },
+                "southwest" : {
+                   "lat" : 13.78746527010728,
+                   "lng" : 100.6274778701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "S.M.Chemical Supplies Co.,Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 699,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102453401823357562074\"\u003eS.M. Chemical Supplies Co.,LTD.\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLWcjIbnH2zsxfvw7A04-kW9X0lac_xiloX_7koAyJrjYeMgDaRx25uFZq6qIpY963miufRcme1-XxAnVxAUu3atPwG_C-0kE5mwnE1mfCps4m0ozgFghhlxqm2zhCBIkVC4qLhgJvT2MSJB08JLRCSkhfBIEgEB_8jamOESJ7c2EkY",
+                "width" : 1241
+             }
+          ],
+          "place_id" : "ChIJX37QmQ9iHTER2iPOZwAR6JQ",
+          "plus_code" : {
+             "compound_code" : "QJQH+GG Bangkok",
+             "global_code" : "7P52QJQH+GG"
+          },
+          "rating" : 5,
+          "reference" : "ChIJX37QmQ9iHTER2iPOZwAR6JQ",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4,
+          "vicinity" : "3/1-2 SMC Building Ladprao 101 Raod Klongjan Bang Kapi District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.662544,
+                "lng" : 100.6374942
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.66374197989272,
+                   "lng" : 100.6386548798927
+                },
+                "southwest" : {
+                   "lat" : 13.66104232010728,
+                   "lng" : 100.6359552201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "T.J.K. Chemical Company Limited",
+          "opening_hours" : {},
+          "place_id" : "ChIJL0iAROtfHTERp1UEc-kuwNE",
+          "plus_code" : {
+             "compound_code" : "MJ7P+2X Bangkok",
+             "global_code" : "7P52MJ7P+2X"
+          },
+          "rating" : 0,
+          "reference" : "ChIJL0iAROtfHTERp1UEc-kuwNE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "103 ซอย 7 Bang Na"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.743417,
+                "lng" : 100.5448178
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.74492167989272,
+                   "lng" : 100.5461983298927
+                },
+                "southwest" : {
+                   "lat" : 13.74222202010728,
+                   "lng" : 100.5434986701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Pitiwat Chemical Service",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 480,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109378763211394779661\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJnfDa1mWdHR-sohQtknFDcKa3SlXsfmdcuL4NZuyVXLI_bMP1Rowqsg3C0KjeyehIjIbOwdDq0S_FiTuyNdgcu6aghKDja0On3JAnfATXlAsErIyHsk26XD9BEGXoc-0cvVIuCfi7qiP3EYflkuwKYzltSXag_Yh-wd6MoZGF8x1z3",
+                "width" : 858
+             }
+          ],
+          "place_id" : "ChIJW0TfT3Sf4jARbfHZcBdIFmM",
+          "plus_code" : {
+             "compound_code" : "PGVV+9W Bangkok",
+             "global_code" : "7P52PGVV+9W"
+          },
+          "rating" : 0,
+          "reference" : "ChIJW0TfT3Sf4jARbfHZcBdIFmM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Ploen Chit Tower, 898 Phloen Chit Rd, Pathum Wan District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7027599,
+                "lng" : 100.5403965
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.70407812989272,
+                   "lng" : 100.5416947298927
+                },
+                "southwest" : {
+                   "lat" : 13.70137847010728,
+                   "lng" : 100.5389950701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Petch Thai Chemical Co.,Ltd.",
+          "place_id" : "ChIJVxFxgk-f4jARJ6F0OrYsaN8",
+          "plus_code" : {
+             "compound_code" : "PG3R+45 Bangkok",
+             "global_code" : "7P52PG3R+45"
+          },
+          "rating" : 0,
+          "reference" : "ChIJVxFxgk-f4jARJ6F0OrYsaN8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "15 Naradhiwat Rajanagarindra Rd, Chong Nonsi, Yan Nawa"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.473178,
+                "lng" : 101.015142
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.47459952989272,
+                   "lng" : 101.0165493298927
+                },
+                "southwest" : {
+                   "lat" : 13.47189987010728,
+                   "lng" : 101.0138496701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เอกไทย เคมี จำกัด - YA THAI CHEMICAL CO., LTD.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106000382236696758506\"\u003eTom Lei\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJZHxBz7c_bqERJ_DyGsmff1273dJ-tjhYZ7gjldgCM40iJGZJfYgs7lAp5kZQ6UAtnxIP2QkrPam_VJhxensa8CZxV3AQj880C4kma4twD8JZXpsMhj-sWgUgIC8L66ef7LtnaRhPyrHl2Lb3ngCRw8KeDNrltmZdZIoXghTP1Rr10",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJD22ieZo3HTERESg5ISjOgcE",
+          "plus_code" : {
+             "compound_code" : "F2F8+73 Bang Nang, Phan Thong District, Chon Buri",
+             "global_code" : "7P53F2F8+73"
+          },
+          "rating" : 4.9,
+          "reference" : "ChIJD22ieZo3HTERESg5ISjOgcE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 9,
+          "vicinity" : "78/9 หมู่ 5 ท่าข้าม บางปะกง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.7534333,
+                "lng" : 100.5324662
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.75488902989272,
+                   "lng" : 100.5336153798927
+                },
+                "southwest" : {
+                   "lat" : 13.75218937010728,
+                   "lng" : 100.5309157201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Chemex Co.,LTD.",
+          "opening_hours" : {},
+          "place_id" : "ChIJ70zio7Ce4jARWAhOAjnhtUI",
+          "plus_code" : {
+             "compound_code" : "QG3J+9X Bangkok",
+             "global_code" : "7P52QG3J+9X"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ70zio7Ce4jARWAhOAjnhtUI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "19 Phayathai Rd, Bangkok"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.6127291,
+                "lng" : 100.5488594
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.61418517989272,
+                   "lng" : 100.5503286298927
+                },
+                "southwest" : {
+                   "lat" : 13.61148552010728,
+                   "lng" : 100.5476289701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "AGC Chemicals (Thailand) Company Limited",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 1108,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117385412324808717168\"\u003ePallop Sattayasatain\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwK4-yP-SafMvnxxdDTetvMmpop8WlDtp9prclB_D9MIKYAaglBxjrYiQRrrzdq05rYyxICV5b-dQbzUwWjRBLtkkDXri9uhkgt4ZEpUpmynBPl46JZpDdhoJ08TE_YFx6uzB0MQe2keuIiXq4p0YdD4WttPWvQJw2FBGj7jx8XbQKfX",
+                "width" : 1477
+             }
+          ],
+          "place_id" : "ChIJXZsAKUeh4jARlwJAGLbnpjg",
+          "plus_code" : {
+             "compound_code" : "JG7X+3G Pak Khlong Bang Pla Kot, Phra Samut Chedi District, Samut Prakan",
+             "global_code" : "7P52JG7X+3G"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJXZsAKUeh4jARlwJAGLbnpjg",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 13,
+          "vicinity" : "1 ซอยสุขสวัสดิ์ 80 Pak Khlong Bang Pla Kot, Phra Samut Chedi District"
+       }
+    ],
+    "status" : "OK"
+ }
