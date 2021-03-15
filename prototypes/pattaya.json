@@ -1,0 +1,828 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwJ8umHv73qsjQ3KmCmwATT5wPeW7RBfSq-V7FCWsc-0PKDizx5R_-TREBOZxKoXM4ryiZELkGLwhFzHfprimN31-jrBABUNKRcsNlxwljIwnsyINf5jn0XdPPyCdQsq5CbfTHVL0m2zYmYEyrU9j5QSESebttQc5O0IgIl8Ye83U3UT5hL8m8Jr5j8xrGcOwA0x6rwpVsGcEMWJAuAfaR3hf8W6EvqhvIVlU4Ub2B7mwQ-M6m8GnDHkF7JkoBSqUh5XDQZXfARvN1DCNdZYkLSe5_4IGc0lDB5lpdrq2fXupYNdjZzzgwmje9YoJewZTdSs3E3hZOL_eJUtzConYCswigcxiwffe3MZj8Vu_2Up0e-0tLgO2SI8Tp5i6lz-8leVOGwrwuXBA-s6a_Zh6GAPV2oQdsiCTCvhZc1U8nOUqvO9ELQ9ndMOhC84USXcGQBiIg",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.3507712,
+                "lng" : 101.1598847
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.35201457989272,
+                   "lng" : 101.1611780798927
+                },
+                "southwest" : {
+                   "lat" : 13.34931492010728,
+                   "lng" : 101.1584784201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "CHEMICAL & MACHINERY THAILAND Co., Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJxwcg-6YzHTERqHwDXB4Kc_Q",
+          "plus_code" : {
+             "compound_code" : "9525+8X Nong Bon Daeng, Ban Bueng District, Chon Buri",
+             "global_code" : "7P539525+8X"
+          },
+          "rating" : 0,
+          "reference" : "ChIJxwcg-6YzHTERqHwDXB4Kc_Q",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "23, 119, Nong Bon Daeng, Ban Bueng District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.694991,
+                "lng" : 101.151211
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.69634122989272,
+                   "lng" : 101.1527009798927
+                },
+                "southwest" : {
+                   "lat" : 12.69364157010728,
+                   "lng" : 101.1500013201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "DOW THAILAND GROUP & SCG-DOW GROUP",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJaRrguprwAjERtnicdjCuYy0",
+          "plus_code" : {
+             "compound_code" : "M5V2+XF Map Ta Phut, Mueang Rayong District, Rayong",
+             "global_code" : "7P43M5V2+XF"
+          },
+          "rating" : 5,
+          "reference" : "ChIJaRrguprwAjERtnicdjCuYy0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 3,
+          "vicinity" : "Highway 36, Map Ta Phut, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.3353053,
+                "lng" : 101.1043533
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.33671032989272,
+                   "lng" : 101.1057341798927
+                },
+                "southwest" : {
+                   "lat" : 13.33401067010728,
+                   "lng" : 101.1030345201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท 1595 จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 850,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116939406512252135705\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKfUgB4mDFT6fGU3cqCEHvCkR-SHwfedOZ0yc0dsTi9GrCcyXnWuZYf_JyRj1DnPl14L1JOeQRaYFkwEOqVObjkYYayCJpNpLNZ7oJdowyQDbaFqofuEWIRTP1QZ5PoXZI22v0vAeCNKSNyk2r0FC-dnM3ZdduOZz8mjKQaxEDYlDvH",
+                "width" : 1512
+             }
+          ],
+          "place_id" : "ChIJEe2EunMzHTERN2KnwoLO_do",
+          "plus_code" : {
+             "compound_code" : "84P3+4P Map Phai, Ban Bueng District, Chon Buri",
+             "global_code" : "7P5384P3+4P"
+          },
+          "rating" : 0,
+          "reference" : "ChIJEe2EunMzHTERN2KnwoLO_do",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "29, Map Phai, Ban Bueng District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.705983,
+                "lng" : 101.124018
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.70730787989272,
+                   "lng" : 101.1254152298927
+                },
+                "southwest" : {
+                   "lat" : 12.70460822010728,
+                   "lng" : 101.1227155701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท อินเตอร์พรีทีฟ จำกัด (ระยอง)",
+          "place_id" : "ChIJbUHCAgvxAjERbo7p0ia1rrE",
+          "plus_code" : {
+             "compound_code" : "P44F+9J Huai Pong, Mueang Rayong District, Rayong",
+             "global_code" : "7P43P44F+9J"
+          },
+          "rating" : 0,
+          "reference" : "ChIJbUHCAgvxAjERbo7p0ia1rrE",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "5/9 ซอยจี 3 นิคมอุตสาหกรรมดับบลิวเอชเอตะวันออก (มาบตาพุด, ถนนปกรณ์สงเคราะห์ราษฎร์, Map Ta Phut, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.6959116,
+                "lng" : 101.1508565
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.69724522989272,
+                   "lng" : 101.1522062798927
+                },
+                "southwest" : {
+                   "lat" : 12.69454557010728,
+                   "lng" : 101.1495066201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "DOW THAILAND GROUP & SCG DOW GROUP",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJbQ82U4XwAjER9eruvkRw4L0",
+          "plus_code" : {
+             "compound_code" : "M5W2+98 Map Ta Phut, Mueang Rayong District, Rayong",
+             "global_code" : "7P43M5W2+98"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJbQ82U4XwAjER9eruvkRw4L0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 9,
+          "vicinity" : "Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.811558,
+                "lng" : 101.1387211
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.81288087989272,
+                   "lng" : 101.1400542298927
+                },
+                "southwest" : {
+                   "lat" : 12.81018122010728,
+                   "lng" : 101.1373545701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Aditya Birla Chemicals (Thailand) LTD (Advanced Materials) (Ware House)",
+          "place_id" : "ChIJTcgOJ4_vAjERyHX2HnCkJu4",
+          "plus_code" : {
+             "compound_code" : "R46Q+JF Nikhom Phatthana, Nikhom Phatthana District, Rayong",
+             "global_code" : "7P43R46Q+JF"
+          },
+          "rating" : 0,
+          "reference" : "ChIJTcgOJ4_vAjERyHX2HnCkJu4",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "4 1 ถนน Huai Pong-Nong Bon Alley, Huai Pong, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.7073001,
+                "lng" : 101.1123041
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.70859722989272,
+                   "lng" : 101.1137730798927
+                },
+                "southwest" : {
+                   "lat" : 12.70589757010728,
+                   "lng" : 101.1110734201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Sekisui specialty chemicals (thailand) co.,ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 949,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115774140968727743749\"\u003ePunthep Imkrachang\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwK1w5zkS2UEqk4uSSVV6eFW06ETKluQykG6-tA8yNwMqbfLVU1zBJkcYDvv7v4lU-rXn3chE0wB8NblkBy2thVSlbUthX_YIvhnmy9zVgBZ1-sjOukl9Pl93tQsVFt6w-ey7dcEGaSRTDvNmHqlrLFkgrus29AHOX6A7VSBdh3pPCYL",
+                "width" : 1265
+             }
+          ],
+          "place_id" : "ChIJZ0Hs6gDxAjERW5Nn5mAXFwk",
+          "plus_code" : {
+             "compound_code" : "P446+WW Huai Pong, Mueang Rayong District, Rayong",
+             "global_code" : "7P43P446+WW"
+          },
+          "rating" : 5,
+          "reference" : "ChIJZ0Hs6gDxAjERW5Nn5mAXFwk",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Huai Pong, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.0494345,
+                "lng" : 100.9354996
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.05080337989272,
+                   "lng" : 100.9368527798927
+                },
+                "southwest" : {
+                   "lat" : 13.04810372010728,
+                   "lng" : 100.9341531201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Goods Chemical",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 884,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104106562357423999750\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJlXsHSfN5o5u6VMBRGUtECvcnb_92Nt_HLvkpsA96et1xahI5OqFt8glYrGsXUGhgj6F-ikns4vRpOUM15jBMiQYhQRHDpZe7eGexqv2y4bmeufin1hFA51sPd1v98DRlUM3lo58-LkuhqqUN0_s7v7mgJA07edvMkfbMcZGsvboKs",
+                "width" : 1701
+             }
+          ],
+          "place_id" : "ChIJ3fLyoHq5AjER1cHt5cM8xnI",
+          "plus_code" : {
+             "compound_code" : "2WXP+Q5 Laem Chabang, Bang Lamung District, Chon Buri",
+             "global_code" : "7P522WXP+Q5"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ3fLyoHq5AjER1cHt5cM8xnI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "126/363 หมู่4 Bang Lamung District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.7023355,
+                "lng" : 101.1308154
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.70369092989272,
+                   "lng" : 101.1321311298927
+                },
+                "southwest" : {
+                   "lat" : 12.70099127010728,
+                   "lng" : 101.1294314701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Zeon Chemicals (Thailand) Co., LTd.",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104489988237441721251\"\u003eอาทิตย์ พัฒนสุข\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwL5L19amTpcZ5zJgrz4KsaxHqQ7YEwwu5hQr7FqwG0ReFaEblKAyQVliHBjEoxdTN56F0CBmtCC5rLvp-rFXEgu9xcEjUiPNpRjxTyKP85Wat7X8js5QTkx6V3rnqSKUUVWZgzXoquwwetAetTKxor5oagYifmWjvEsAYIMxFrj4IT2",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJL9EkK_HwAjER4fVjI43NSu8",
+          "plus_code" : {
+             "compound_code" : "P42J+W8 Map Ta Phut, Mueang Rayong District, Rayong",
+             "global_code" : "7P43P42J+W8"
+          },
+          "rating" : 5,
+          "reference" : "ChIJL9EkK_HwAjER4fVjI43NSu8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Map Ta Phut, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.9239466,
+                "lng" : 101.1073844
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.92532592989272,
+                   "lng" : 101.1087600298927
+                },
+                "southwest" : {
+                   "lat" : 12.92262627010728,
+                   "lng" : 101.1060603701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เซียว เซียง เคมีคอล อินดัสทรี (ไทยแลนด์) จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2364,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106982147940609086723\"\u003eaot kham\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJcPqOzwyMUhDaW7gGDW4CSZ8WAaPZGRZ8CL29fvicrtvEiC8z1dwgXsZvIorCmH2ZZMW8tTC2dNjsCNvICCfLxdZoBYqJ7pVtjwb9qs7OJ8Xc15KHKojEezb7hVOk0brcr3NUSs7v87ftjB12xAfsu0JNjQaPCddxwXVfap3rOQyIw",
+                "width" : 4488
+             }
+          ],
+          "place_id" : "ChIJ95260M_pAjER4PyfxoZUi64",
+          "plus_code" : {
+             "compound_code" : "W4F4+HX Phananikhom, Nikhom Phatthana District, Rayong",
+             "global_code" : "7P43W4F4+HX"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ95260M_pAjER4PyfxoZUi64",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "เลขที่ 7/5, หมู่ที่ 4 Phananikhom, Nikhom Phatthana District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.7288897,
+                "lng" : 101.0638624
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.73028032989272,
+                   "lng" : 101.0651907798927
+                },
+                "southwest" : {
+                   "lat" : 12.72758067010728,
+                   "lng" : 101.0624911201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท อาทิตย์เคมีภัณฑ์ จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113391939715856860606\"\u003eบริษัท อาทิตย์เคมีภัณฑ์ จำกัด\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI_s1VXuOxUwY1OlYvIpZH1FMLknReOkDNHNtIn4xAFYiBd1j5AQCxgl3ltNJ5f0m6fDK1rI0Hrh9JiaAdihomE_-My0RcgYWwD_v5XGo2JjCKzRX-WYUYKdAXXlPws_TOYOsxfUR10tsFRuAPIseZXdJFGtKr-5vjQuzH_MG_A2BSo",
+                "width" : 1024
+             }
+          ],
+          "place_id" : "ChIJJYUv0xkTAzERMMWcvC8L8XM",
+          "plus_code" : {
+             "compound_code" : "P3H7+HG Ban Chang, Ban Chang District, Rayong",
+             "global_code" : "7P43P3H7+HG"
+          },
+          "rating" : 2.5,
+          "reference" : "ChIJJYUv0xkTAzERMMWcvC8L8XM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "123/3-4-5 Sukhumvit Rd, Ban Chang, Ban Chang District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.6985254,
+                "lng" : 101.1512092
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.69975442989272,
+                   "lng" : 101.1524891798927
+                },
+                "southwest" : {
+                   "lat" : 12.69705477010728,
+                   "lng" : 101.1497895201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Dow Chemical Thailand Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4128,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102620634737317235939\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLgfENxb-0pejsCcYGCiK3FQho1ZXhtCO5_Htla_WvnssrJrd4gYs4-ye5sa1aDyX-aOXh2IBvkubXniM8E2o8zNw1j5iCLfkWcX0UMlq-OyJjbR9MDcH3dM8h4xyhuBxPaJF5uyWnTPGvPRhD4Q5PUowbHc-443ZME5yw6rWz0QAOS",
+                "width" : 3096
+             }
+          ],
+          "place_id" : "ChIJW7sArryf4jARbO6yI9iUuwM",
+          "plus_code" : {
+             "compound_code" : "M5X2+CF Map Ta Phut, Mueang Rayong District, Rayong",
+             "global_code" : "7P43M5X2+CF"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJW7sArryf4jARbO6yI9iUuwM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 15,
+          "vicinity" : "8 ถนนไอ4 นิคมอุตสาหกรรม Map Ta Phut, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.9240474,
+                "lng" : 101.1073191
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.92540527989272,
+                   "lng" : 101.1086759798927
+                },
+                "southwest" : {
+                   "lat" : 12.92270562010728,
+                   "lng" : 101.1059763201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "xiao xiang chemical industry (thailand) co., ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2364,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106982147940609086723\"\u003eaot kham\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLd8-ep_cltU8KPPeIwvg5HwdRM6u_FIy98egT325WTLx5jwmIz--KLlKyFDTPooiOL3NsW1Lw6MG5DyW2oWcHcOubGDBbx7WhxHNR7VEM9xFzOESuJJeFir-6ukf4AvcJngdQAKy34un96U3ZS8b0ODDacuPHyf_FLThMZs3JQnSF9",
+                "width" : 4488
+             }
+          ],
+          "place_id" : "ChIJ4YfS0M_pAjERb3qb2o71CVU",
+          "plus_code" : {
+             "compound_code" : "W4F4+JW Phananikhom, Nikhom Phatthana District, Rayong",
+             "global_code" : "7P43W4F4+JW"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ4YfS0M_pAjERb3qb2o71CVU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "7/5 Moo.4, T.Phana Nikhom, A.Nikhom Phatthana, Rayong 21180 7/5 หมู่ที่ 4 Phananikhom, Nikhom Phatthana District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.6969856,
+                "lng" : 101.0930086
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.69790682989272,
+                   "lng" : 101.0942312798927
+                },
+                "southwest" : {
+                   "lat" : 12.69520717010728,
+                   "lng" : 101.0915316201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Dow chemical AIE plant, Trainning",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101633562929558232516\"\u003eChayarop Sorataworn\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLLLPlHp3YC86sBeoqZnZJhWyeVT1Zxh0ooEtGqhYufZ7lNd21tr1kKr11ni1lxKZYbng5ZB4IwzyiStfoOgEqbUzaaZllJNldQkdPODkVdJ9uFQxSIDBp4082ux07lmBJuqsNGfdAr--hG5K_13rJQPkIFPMao4uzUeZldTRFvBMLR",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ4cSUR23xAjERRB7_DDeWRpY",
+          "plus_code" : {
+             "compound_code" : "M3WV+Q6 Ban Chang, Ban Chang District, Rayong",
+             "global_code" : "7P43M3WV+Q6"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJ4cSUR23xAjERRB7_DDeWRpY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "Ban Chang, Ban Chang District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 13.2343809,
+                "lng" : 100.9640194
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 13.23574792989272,
+                   "lng" : 100.9652711298927
+                },
+                "southwest" : {
+                   "lat" : 13.23304827010728,
+                   "lng" : 100.9625714701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Innex Chemical Co.,Ltd",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 3508,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105456308633078253497\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIO4v8cH4S6wQdxF8WSNxIPLEw6yoPLr_KrmLPmDSWEMIv__xOdteXR476ytvdnP-H-107PAzGIwlNQqTywjET82wNEOGao4r-r6VbSkNixPQa95ja2RJt9mVNdQPPAzf1JVBYi5XLHYi5uWTnMO_KAftHM5vuQELjlLJ0oXxnQ336O",
+                "width" : 2482
+             }
+          ],
+          "place_id" : "ChIJcT3F4N61AjERg7B2kq_o8cU",
+          "plus_code" : {
+             "compound_code" : "6XM7+QJ Bang Phra, Si Racha District, Chon Buri",
+             "global_code" : "7P526XM7+QJ"
+          },
+          "rating" : 4,
+          "reference" : "ChIJcT3F4N61AjERg7B2kq_o8cU",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 3,
+          "vicinity" : "53/45 หมู่ 6 บางพระ Si Racha District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.6958201,
+                "lng" : 101.1301759
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.69716632989272,
+                   "lng" : 101.1315714798927
+                },
+                "southwest" : {
+                   "lat" : 12.69446667010728,
+                   "lng" : 101.1288718201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "AGC Chemicals (Thailand) Co.,Ltd",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112747056042746215926\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJWvH6ZxYDk3CQwK8Fqq3HHopQqMuN3SIUhv__7QHAdMfQIb08p6weAd6H8IdQiHeAOu_CR7P689L7oEILPFdje22eeufsYMiZ_PoEYnyCV1ZKPXcS8yO4za1HL0QXTVVXxCEtSScgCiYnw87oqtD9Bdiaw4HfcX2b4-Y-i8nmo1GIN",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJbWRlye_wAjER_-psR6EK8uo",
+          "plus_code" : {
+             "compound_code" : "M4WJ+83 Map Ta Phut, Mueang Rayong District, Rayong",
+             "global_code" : "7P43M4WJ+83"
+          },
+          "rating" : 4,
+          "reference" : "ChIJbWRlye_wAjER_-psR6EK8uo",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 8,
+          "vicinity" : "4 ซอยจี-12 ถนนปกรณ์สงเคราะห์ราษฎร์ Map Ta Phut, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.7190672,
+                "lng" : 101.1117546
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.72090587989272,
+                   "lng" : 101.1131360298927
+                },
+                "southwest" : {
+                   "lat" : 12.71820622010728,
+                   "lng" : 101.1104363701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Reaxo Pharma & Chem Co., Ltd.",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 1440,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115996151289524899846\"\u003eChanakit Tuesak\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKxceFJ9z8_qOifWqi8a8cu65k2fKE4t3XNWxsu_V8vbsiailqtq0JU38scrEGOwPzNRE-b9G21UiefwHGxSNVcZ1sBT9_qvBVJjwvcmXyo7NhLdhrPWe95LSfl4RRM2kyLQwydNLtHsoR2XIl5ooeKT8bNGJXMMerJ9DTvncDnScdM",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJ3Sh7M_vxAjERifn2IvRP5wA",
+          "plus_code" : {
+             "compound_code" : "P496+JP Huai Pong, Mueang Rayong District, Rayong",
+             "global_code" : "7P43P496+JP"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ3Sh7M_vxAjERifn2IvRP5wA",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Huai Pong, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.6988205,
+                "lng" : 101.1222581
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.70024832989272,
+                   "lng" : 101.1236551798927
+                },
+                "southwest" : {
+                   "lat" : 12.69754867010728,
+                   "lng" : 101.1209555201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บ.Carbide Chemical",
+          "place_id" : "ChIJi66EYfvwAjERy1Mcw8FTG80",
+          "plus_code" : {
+             "compound_code" : "M4XC+GW Huai Pong, Mueang Rayong District, Rayong",
+             "global_code" : "7P43M4XC+GW"
+          },
+          "rating" : 0,
+          "reference" : "ChIJi66EYfvwAjERy1Mcw8FTG80",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Huai Pong, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.7021334,
+                "lng" : 101.1292902
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.70358622989272,
+                   "lng" : 101.1306822298927
+                },
+                "southwest" : {
+                   "lat" : 12.70088657010728,
+                   "lng" : 101.1279825701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "GC Glycol",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112250283727681880487\"\u003e김민성\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKkj4IGDXYCe89390kBCqEvxaL9xE1pPSFqgd2JhdCl5fU-tn9gn6m8lfmaOl-bTm-sBhEH4_dVu0ILRrGAVnaWdWnFEDY65b73vKKiXRGyXDpcWwrI2Fe6JhTiQdZhmVjxNWwtlbbqK8gTOwoILPHe4m58K9PTO2UdgTHAWd-H3dSO",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJ_4UjyvDwAjERS3REecNHJb4",
+          "plus_code" : {
+             "compound_code" : "P42H+VP Map Ta Phut, Mueang Rayong District, Rayong",
+             "global_code" : "7P43P42H+VP"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ_4UjyvDwAjERS3REecNHJb4",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 6,
+          "vicinity" : "9, 9/1 ถนน ปกรณ์ สงเคราะห์ราษฎร์ Map Ta Phut, Mueang Rayong District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.7113886,
+                "lng" : 101.1123335
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.71260972989272,
+                   "lng" : 101.1136297798927
+                },
+                "southwest" : {
+                   "lat" : 12.70991007010728,
+                   "lng" : 101.1109301201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ZEON CHEMICALS ASIA CO.,LTD.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1536,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106003013462688021136\"\u003eSorasak Chunvirat\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLIulfFBx6VskAiL3SyRHnQaiwV2alhiIEfhesgL-34qII-EKtv95UsjdZ2HkMJIvYOD6tsqCzoS3L5Ug0oE2vb5mVcYiOlS_M3xAdzdTGeyKoB07_yZ-AUGtFVgIVK9gEhuZIx0XAfqeiOqa06ZLomCwb2S_VmOfJWAh2Zs2OWGRN5",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJD-dn2YjxAjERiQo2KsyGAiI",
+          "plus_code" : {
+             "compound_code" : "P466+HW Huai Pong, Mueang Rayong District, Rayong",
+             "global_code" : "7P43P466+HW"
+          },
+          "rating" : 0,
+          "reference" : "ChIJD-dn2YjxAjERiQo2KsyGAiI",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "H-49 Block, Hemaraj Eastern Industrial Estate, Huai Pong, Mueang Rayong District"
+       }
+    ],
+    "status" : "OK"
+ }
