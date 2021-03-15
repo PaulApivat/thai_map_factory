@@ -1,0 +1,813 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwLoiZy4PWxNawGo1dfSw_Xfn6UrxYmU0ynhRIpcrUHR2ud4YPGNPURHCCPnFmJJ7-W8UW7k3L8LIdLySFz67g5s4YjvsDbewSb2OH1EBbzZ11moU-ehHvi8A9vKI6cKuhZYZyhFJZQwZQkp-WJ0_lTQc0qXyn4vDZzJnkqpnucPOY1jun8ojNCvxesB-YnC8lobZrhymFInY_kuENldtgxS98PFldfEULewglrIrI_JUBk8kyRnwmNUNu7BDE5YdRljB8ZMPgVXDCh7QojbwGY8Bhap3br0H1_TfBhbSYqUDQQ8V_vAlVycc158Mujlk9KseX8TOT9bZ8b8PYGSH0YvC42NSG_sLt_xom8XiQcvoO3LYmWwmdldEpa_fZ2BmT3nPr4YI4O07D5vGdxeVqCAqwsAJtJfmjK0T309QC-ugOZ_YeNAXivmmhLTvgdpBbSgeg",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.883537999999999,
+                "lng" : 98.3875853
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.884898279892721,
+                   "lng" : 98.38882462989272
+                },
+                "southwest" : {
+                   "lat" : 7.882198620107277,
+                   "lng" : 98.38612497010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Pro Chemical",
+          "place_id" : "ChIJ1ykz4_oxUDARomWLJqvGQWw",
+          "plus_code" : {
+             "compound_code" : "V9MQ+C2 Phuket, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV9MQ+C2"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ1ykz4_oxUDARomWLJqvGQWw",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "96 ภูเก็ตวิลล่า 1 Yaowarat Rd, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 8.0028314,
+                "lng" : 98.31188619999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 8.00418052989272,
+                   "lng" : 98.31323777989273
+                },
+                "southwest" : {
+                   "lat" : 8.001480870107276,
+                   "lng" : 98.31053812010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เอส.ที.เคมีธุรกิจ จำกัด (สาขาภูเก็ต)",
+          "place_id" : "ChIJD5g39343UDAR8VoE8J9Dvh8",
+          "plus_code" : {
+             "compound_code" : "2836+4Q Choeng Thale, Thalang District, Phuket",
+             "global_code" : "6MWW2836+4Q"
+          },
+          "rating" : 0,
+          "reference" : "ChIJD5g39343UDAR8VoE8J9Dvh8",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "4030, Soi Cherngtalay 2, Choeng Thale, Thalang District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.867417400000001,
+                "lng" : 98.34938409999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.868760329892721,
+                   "lng" : 98.35072742989271
+                },
+                "southwest" : {
+                   "lat" : 7.866060670107277,
+                   "lng" : 98.34802777010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "P.S.R.CHEMICAL CO.,LTD.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1108,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112894715939529418930\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJoy-XRN94r6Tvwga68cP3GNIMr_9iLy81esMA0gkXfbb89moVY151juVn0oytTsuuUOzNtxyp3wlcS6QJDFDrw-Cjvqje3y0o8_e1ZMT7336JtaiqFqL0iP7CjLliCGyxGl0wHU5bWHNC3wINWq0SXEhVbJ_VcZcsW21tQmIe6CZtL",
+                "width" : 1477
+             }
+          ],
+          "place_id" : "ChIJy-WjPx4uUDAR6aADFs8DoOY",
+          "plus_code" : {
+             "compound_code" : "V88X+XQ Wichit, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV88X+XQ"
+          },
+          "rating" : 0,
+          "reference" : "ChIJy-WjPx4uUDAR6aADFs8DoOY",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "35 M.3 Chaofa E Rd, Wichit, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.8914214,
+                "lng" : 98.3858779
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.89277117989272,
+                   "lng" : 98.38722492989272
+                },
+                "southwest" : {
+                   "lat" : 7.890071520107276,
+                   "lng" : 98.38452527010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "แอ็กโคแล็บ",
+          "photos" : [
+             {
+                "height" : 1205,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110073118580397925138\"\u003eSuchart Bunchu\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKS_WQK3JY3oRGowogr3-odXlK34-y0yZXQN5jVEqBbe-7t_6TX-KQdb8Xt4OjoZ87FOght2b4fT0gxDqhDDETGguyVzHbZnb6OL3hKnbS3eMOVbGTFNf7kzXK8juwFyaDv2jzt89IsQQVlO8nIO3fKFvm5keIMELG9HWFFNTD-2Po9",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJf6C4vyYxUDARgQqQ1RW6biA",
+          "plus_code" : {
+             "compound_code" : "V9RP+H9 Phuket, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV9RP+H9"
+          },
+          "rating" : 0,
+          "reference" : "ChIJf6C4vyYxUDARgQqQ1RW6biA",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Talat Yai, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.8591,
+                "lng" : 98.3512052
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.860432329892722,
+                   "lng" : 98.35259107989273
+                },
+                "southwest" : {
+                   "lat" : 7.857732670107278,
+                   "lng" : 98.34989142010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท โปรแล็บ เคมิคอล อิควิปเมนท์ แอนด์ ซัพพลาย จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJF7JQ6ugvUDARD3c6jLkZjc0",
+          "plus_code" : {
+             "compound_code" : "V952+JF Chalong, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV952+JF"
+          },
+          "rating" : 0,
+          "reference" : "ChIJF7JQ6ugvUDARD3c6jLkZjc0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "10/175 Wichit, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 8.272081,
+                "lng" : 98.30367199999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 8.273482129892722,
+                   "lng" : 98.30504342989271
+                },
+                "southwest" : {
+                   "lat" : 8.270782470107278,
+                   "lng" : 98.30234377010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Narai International Chemical Co., Ltd.",
+          "place_id" : "ChIJUYioVnlaUDARTC1jygnTh8E",
+          "plus_code" : {
+             "compound_code" : "78C3+RF Khok Kloi, Takua Thung District, Phang-nga",
+             "global_code" : "6MWW78C3+RF"
+          },
+          "rating" : 0,
+          "reference" : "ChIJUYioVnlaUDARTC1jygnTh8E",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "ทางหลวงแผ่นดินหมายเลข 402, Tambon Khok Kloi, ตะกั่วทุ่ง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.867432099999999,
+                "lng" : 98.3493807
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.868768829892722,
+                   "lng" : 98.35071822989271
+                },
+                "southwest" : {
+                   "lat" : 7.866069170107278,
+                   "lng" : 98.34801857010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "P.S.R CHEMICAL CO.,LTD.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 960,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112894715939529418930\"\u003eรุ่งนภางค์ สุทธินุ่น\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLvqgCHXi74KqDTo7qg1BaKYEJQtbpvXeZ7ILFA_09n7RGL9gOGNYKVxT-S7QENxfd2CrYcZ27FF1ze_-5N22ezsAIUSxjBzy2pHlQgaV5-F8OYPehhOkmwCMb0Bruo0fwQgyRWmjT0NVQ5IlrhWq3bKKAPx8eDqqK2kgdXtLfSyZqR",
+                "width" : 1706
+             }
+          ],
+          "place_id" : "ChIJbbdsWtIvUDAR_m69EI2UwHM",
+          "plus_code" : {
+             "compound_code" : "V88X+XQ Wichit, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV88X+XQ"
+          },
+          "rating" : 0,
+          "reference" : "ChIJbbdsWtIvUDAR_m69EI2UwHM",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "35 M, Soi 3, Wichit, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 8.276076699999999,
+                "lng" : 98.3051066
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 8.277482579892721,
+                   "lng" : 98.30633547989272
+                },
+                "southwest" : {
+                   "lat" : 8.274782920107278,
+                   "lng" : 98.30363582010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Kung in Theque",
+          "opening_hours" : {},
+          "place_id" : "ChIJIYuuxnlaUDAR5Pzd8BvYXE4",
+          "plus_code" : {
+             "compound_code" : "78G4+C2 Khok Kloi, Takua Thung District, Phang-nga",
+             "global_code" : "6MWW78G4+C2"
+          },
+          "rating" : 5,
+          "reference" : "ChIJIYuuxnlaUDAR5Pzd8BvYXE4",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Khok Kloi, Takua Thung District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.8459976,
+                "lng" : 98.33458759999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.847350979892722,
+                   "lng" : 98.33587582989273
+                },
+                "southwest" : {
+                   "lat" : 7.844651320107278,
+                   "lng" : 98.33317617010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บมจ.พีรพัฒน์ เทคโนโลยี ศูนย์ธุรกิจภูเก็ต",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1108,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109484314328843677138\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwK6BG6swhofAkeyIOjMJvSsc_29eIMnw2eMaBjdxlTPbbYZhJ4QQ-Oc7rqtJbWPz7hugQGqOmnhIZtK40aTBk4kZaSU4Y6V1rqiiHG-5v006wjrEbAOT3OKHF02Is9Wvz6gwKCBFQ43WNe-eQ5X_3v3fnHccwG_7wqlO-DCmQQL-450",
+                "width" : 1478
+             }
+          ],
+          "place_id" : "ChIJS5A8ELsvUDARnGnADPscF6w",
+          "plus_code" : {
+             "compound_code" : "R8WM+9R Chalong, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWR8WM+9R"
+          },
+          "rating" : 0,
+          "reference" : "ChIJS5A8ELsvUDARnGnADPscF6w",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "7/29 หมู่ 7 ถนนเจ้าฟ้านอก ต.ฉลง Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.884124099999998,
+                "lng" : 98.3975411
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.885427629892722,
+                   "lng" : 98.39890012989272
+                },
+                "southwest" : {
+                   "lat" : 7.882727970107278,
+                   "lng" : 98.39620047010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Phuket Inter Chemical",
+          "opening_hours" : {},
+          "place_id" : "ChIJF4r9qvkxUDAR6hP0k2Y67a0",
+          "plus_code" : {
+             "compound_code" : "V9MX+J2 Phuket, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV9MX+J2"
+          },
+          "rating" : 2.5,
+          "reference" : "ChIJF4r9qvkxUDAR6hP0k2Y67a0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2,
+          "vicinity" : "185, 45-46 Phangnga Rd, Tambon Talat Yai, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 8.0564084,
+                "lng" : 98.32345099999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 8.057766679892723,
+                   "lng" : 98.32480047989272
+                },
+                "southwest" : {
+                   "lat" : 8.055067020107279,
+                   "lng" : 98.32210082010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ร้านดี. เกษตรรุงเรือง",
+          "opening_hours" : {},
+          "place_id" : "ChIJdfSJuxtIUDARQgGkH2fsJwA",
+          "plus_code" : {
+             "compound_code" : "384F+H9 Thep Krasatti, Thalang District, Phuket",
+             "global_code" : "6MWW384F+H9"
+          },
+          "rating" : 0,
+          "reference" : "ChIJdfSJuxtIUDARQgGkH2fsJwA",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Thep Krasat Tri-Nai Yang Rd, เทพกระษัตรี Thalang District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.9850742,
+                "lng" : 98.35944029999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.986458129892722,
+                   "lng" : 98.36074767989273
+                },
+                "southwest" : {
+                   "lat" : 7.983758470107278,
+                   "lng" : 98.35804802010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "ร้านชัยทวีท่าเรือ",
+          "photos" : [
+             {
+                "height" : 2368,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114371684224231900148\"\u003eวรารัตน์ เรือนเพ็ชร์\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIJW8rIj4U8LftnIucena7xNmgMoKGvsCEiMlVz5DHZTNOesEEBP9JJcu7yQenr70FEoyIA40FiFsb2WQN8jvvL7tmtw0GafWXeqvJn8Gq9CpwgdrrcXCl9E4C9je2fQPeR4NLO06wLBLh5v26wjak_lGVc7j10E-EUpjilyEWnZrM",
+                "width" : 4208
+             }
+          ],
+          "place_id" : "ChIJ0YcJQOc2UDARubyf4p38Fx4",
+          "plus_code" : {
+             "compound_code" : "X9P5+2Q Si Sunthon, Thalang District, Phuket",
+             "global_code" : "6MVWX9P5+2Q"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ0YcJQOc2UDARubyf4p38Fx4",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Si Sunthon, Thalang District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.866997,
+                "lng" : 98.3715059
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.868368979892723,
+                   "lng" : 98.37284237989273
+                },
+                "southwest" : {
+                   "lat" : 7.865669320107279,
+                   "lng" : 98.37014272010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Phuket Chemical & Machinery",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 451,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106230742453189306990\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKGJyq9e7KBhlyM0E6Ini_tzky-XxhWjTjs34cFctQrLNJmzlfcsnGq2OqdaAZ-PbTXCbrSqy6xafBoUxJ7BRyUkDfSvZfOMSC7kHxnmybGLzIW0hdJmCHjKzIWvAm_7GnYwC63NeMdAjUJo-J2cvFXK5RjhOXcBKcpkJp37nD5NWaJ",
+                "width" : 800
+             }
+          ],
+          "place_id" : "ChIJZ0YPMCIuUDARZLz7mGRai30",
+          "plus_code" : {
+             "compound_code" : "V98C+QJ Wichit, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV98C+QJ"
+          },
+          "rating" : 0,
+          "reference" : "ChIJZ0YPMCIuUDARZLz7mGRai30",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "หมู่ที่ 3 10/47 Wichit, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.916990199999999,
+                "lng" : 98.39405099999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.918323779892722,
+                   "lng" : 98.39544267989271
+                },
+                "southwest" : {
+                   "lat" : 7.915624120107278,
+                   "lng" : 98.39274302010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Phuket Chemical Argiculture Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 810,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102416844027932154108\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKqDkvzMJV8jO1ypAtGt_iY52CDFR41yIH67uj2kAsmywavfAM5bNy9F65Y6r8C_IWSz9EYggpSE77CRBK3Jl9rDyyZLzTWxTP5tbOj3J-rxllnd0hbnPG0MtyqwYYBzGwZA42sV_W3dNOFsD3CvoIKazvpgV151Fm9qrywl8dIB6MF",
+                "width" : 1440
+             }
+          ],
+          "place_id" : "ChIJW0qLDhsyUDAR85F7ZLYx6Ck",
+          "plus_code" : {
+             "compound_code" : "W98V+QJ Ratsada, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWW98V+QJ"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJW0qLDhsyUDAR85F7ZLYx6Ck",
+          "scope" : "GOOGLE",
+          "types" : [ "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 7,
+          "vicinity" : "45/4 ถนน เทพกระษัตรี (เยื้องสถานีขนส่งแห่งที่ 2) Ratsada, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.861367199999999,
+                "lng" : 98.34884029999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.862720929892721,
+                   "lng" : 98.35022167989273
+                },
+                "southwest" : {
+                   "lat" : 7.860021270107277,
+                   "lng" : 98.34752202010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Phuket Chemical and Machinery Co.,Ltd.",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1277,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118351336041839022380\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLwyFZPRgSBedM15GJdE0ZCpbgcTRVzoKQTx7Hpi7-qLcTTOSE6DT7q6NYOdDLTBYOvRtxKP3bUzQdhvpk6KymkaU5p8t66zJ8-wL3Wsd2VtigkTPs4vnr7t0mlxkxZug1qqgCkSlFLBPOesl7MjO2z3QcHixW6hlp99vMB6Z7EPZFk",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJiZU9eGwvUDARqWtbD5GhN3A",
+          "plus_code" : {
+             "compound_code" : "V86X+GG Chalong, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV86X+GG"
+          },
+          "rating" : 0,
+          "reference" : "ChIJiZU9eGwvUDARqWtbD5GhN3A",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "10, 178 Soi 5, Wichit, เมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.8782664,
+                "lng" : 98.37014309999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.879585279892721,
+                   "lng" : 98.37147732989273
+                },
+                "southwest" : {
+                   "lat" : 7.876885620107277,
+                   "lng" : 98.36877767010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "คลีนพลัสเคมีคอล",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1477,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108228743802290803902\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJ3oIkRHQazDRVZoGFXp2RrOkca66IZa-mlSlh0PvjZe6u6UDljGzuMvJPtANkTuWvoeCAD39eIGjECfqu3wMrnpVm5mhZszsJ9EooqfjUR8K8bfF-F4CqZLmkqvkJZAGcAiweSVqXYIOfmwlp2mLCmdMRca0QwDsiiKFzNCOEkX65m",
+                "width" : 1108
+             }
+          ],
+          "place_id" : "ChIJV389iYAxUDARn_jlPbaPH_E",
+          "plus_code" : {
+             "compound_code" : "V9HC+83 Wichit, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWV9HC+83"
+          },
+          "rating" : 5,
+          "reference" : "ChIJV389iYAxUDARn_jlPbaPH_E",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "63/466 Wichit, เมือง"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 8.001021699999999,
+                "lng" : 98.3448252
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 8.002369529892722,
+                   "lng" : 98.34621367989273
+                },
+                "southwest" : {
+                   "lat" : 7.999669870107279,
+                   "lng" : 98.34351402010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Chem-Dry Cleaning Service",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116785407778313706030\"\u003eChem-Dry Cleaning Service\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLR0v3MFOAZqQkROnBFMb0sdEhBMZzZERgiOmc75vPxdhIUFd38O68azwVCxjRojlSB3ztLjZWiH0scmTCiIdRZ83wrt1G1N81l3ZmPAdw8gMzoOk1A-zt0vNcQH2KvynTyWl3_ZBovVY6WQdsn_hiW4I3u_2UlqEjZgt7oEt_dX0U",
+                "width" : 4500
+             }
+          ],
+          "place_id" : "ChIJZaR79qAxUDARjRZ_nu5cB4I",
+          "plus_code" : {
+             "compound_code" : "282V+CW Si Sunthon, Thalang District, Phuket",
+             "global_code" : "6MWW282V+CW"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJZaR79qAxUDARjRZ_nu5cB4I",
+          "scope" : "GOOGLE",
+          "types" : [ "laundry", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 11,
+          "vicinity" : "55/309 Moo 1 Thepkasattri Road T Srisoonthorn, A. Thalang, Thalang District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 8.0096683,
+                "lng" : 98.315595
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 8.01101522989272,
+                   "lng" : 98.31696532989272
+                },
+                "southwest" : {
+                   "lat" : 8.008315570107277,
+                   "lng" : 98.31426567010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "บริษัท เอส.ที.เคมีธุรกิจ จำกัด",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1108,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107906610687499719957\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIOADlo0LKT3MoQsT_AXmHgEnnq2uK1UGyjx1NuKWr60suNKspum03qsW35jHP_h_zm6Hyhl47DAcxMgHpHVPCkjwcqKGmBztdzqGLLUUHfzt82cW8cBy1giTtyl2WTN_ogyka-ec837NxvoqSPfm0-K8yP3MD7BSJp-esD5lZ7ENYR",
+                "width" : 1477
+             }
+          ],
+          "place_id" : "ChIJ-eLK9uU3UDAR2uzCAkY64AA",
+          "plus_code" : {
+             "compound_code" : "2858+V6 Choeng Thale, Thalang District, Phuket",
+             "global_code" : "6MWW2858+V6"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ-eLK9uU3UDAR2uzCAkY64AA",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "50/67 ม.4 เชิงทะเล Thalang District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.905859,
+                "lng" : 98.3753837
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.907209229892723,
+                   "lng" : 98.37673352989272
+                },
+                "southwest" : {
+                   "lat" : 7.904509570107279,
+                   "lng" : 98.37403387010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Karcher Store by Topline Center Co., Ltd",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111294055606675873729\"\u003eAndrei Novikov\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJ2u4adBIKJ5CraqbcDEYnoo5jNuieU5nEOfSlVUbZyMhjkQXTke4w997kZwWDX8FBPIMoqEkFPmmvrwRvxO6Ryw6I63izCVry_KTDylqAStT0GLMoU5SvwtvRRGt2JGGh6-6PKruCCrTLs7M08Zr_zmMKzmnOJPtzg8iGQtFyezPHd",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJGYhtxZcxUDARrFLujFyKBh0",
+          "plus_code" : {
+             "compound_code" : "W94G+85 Ratsada, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWW94G+85"
+          },
+          "rating" : 5,
+          "reference" : "ChIJGYhtxZcxUDARrFLujFyKBh0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1,
+          "vicinity" : "92 หมู่บ้านภูเก็ตวิลล่า 1 ซอย Yaowarat 1 Rd, Mueang Phuket District"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 7.905675500000001,
+                "lng" : 98.37589880000002
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 7.907073029892722,
+                   "lng" : 98.37724622989272
+                },
+                "southwest" : {
+                   "lat" : 7.904373370107278,
+                   "lng" : 98.37454657010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Pro Cleaning Company Limited",
+          "photos" : [
+             {
+                "height" : 2976,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104833595374735927900\"\u003eSITTISAK KHOUDOM\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJePHakVBFhunpILr4xoZ8QozsAx35IfhQlWPJ0mdC2rRPUMvSw0l6GIEFWxCn2b1hSZ8nc8S2csIvBlptWYviOyPgizC-x19Dxp3NoWO3WCiamiAJJsDYEOwQTm9e-12XaL11vrgX0-Q6I3HuMIIa_8Atdf6lfOLHmkR2BrHV7TL9j",
+                "width" : 3968
+             }
+          ],
+          "place_id" : "ChIJk9JbyJcxUDARqzsUFluKBh0",
+          "plus_code" : {
+             "compound_code" : "W94G+79 Ratsada, Mueang Phuket District, Phuket",
+             "global_code" : "6MVWW94G+79"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJk9JbyJcxUDARqzsUFluKBh0",
+          "scope" : "GOOGLE",
+          "types" : [ "point_of_interest", "establishment" ],
+          "user_ratings_total" : 10,
+          "vicinity" : "61 Yaowarat Rd, Talat Yai, Mueang Phuket District"
+       }
+    ],
+    "status" : "OK"
+ }
