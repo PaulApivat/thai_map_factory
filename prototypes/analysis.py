@@ -1,4 +1,5 @@
 import json
+import pandas as pd
 
 # load json into python, assign bangkok.json to 'bkk'
 
@@ -50,4 +51,38 @@ for d in bkk['results']:
 
 # Print specific Keys
 for d in bkk['results']:
-    print(d['name'], d['geometry']['location'], d['vicinity'])
+    print(d['name'], d['geometry']['location']['lat'],
+          d['geometry']['location']['lng'], d['vicinity'])
+
+# To convert necessary information into data frame
+# step 1: create 4 lists
+# step 1a: execute loop & append to empty lists
+# step 2: create dictionary
+# step 2a: append dictionary with 4 corresponding list
+# step 3: convert dictionary into dataframe
+
+# step 1
+
+a1 = []
+a2 = []
+a3 = []
+a4 = []
+
+# step 1a
+for d in bkk['results']:
+    a1.append(d['name'])
+    a2.append(d['geometry']['location']['lat'])
+    a3.append(d['geometry']['location']['lng'])
+    a4.append(d['vicinity'])
+
+# step 2
+table = dict()
+
+# step 2a
+table['name'] = a1
+table['lat'] = a2
+table['lng'] = a3
+table['vicinity'] = a4
+
+# step 3
+df_table = pd.DataFrame(table)
