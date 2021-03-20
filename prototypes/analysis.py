@@ -54,6 +54,8 @@ for d in bkk['results']:
     print(d['name'], d['geometry']['location']['lat'],
           d['geometry']['location']['lng'], d['vicinity'])
 
+# NEED TO FIGURE OUT ---> d['plus_code']['compound_code'],
+
 # To convert necessary information into data frame
 # step 1: create 4 lists
 # step 1a: execute loop & append to empty lists
@@ -67,6 +69,7 @@ a1 = []
 a2 = []
 a3 = []
 a4 = []
+
 
 # step 1a
 for d in bkk['results']:
