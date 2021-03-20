@@ -56,6 +56,12 @@ for d in bkk['results']:
 
 # NEED TO FIGURE OUT ---> d['plus_code']['compound_code'],
 
+for d in bkk['results']:
+    try:
+        print(d['plus_code']['compound_code'])
+    except:
+        print("none")
+
 # To convert necessary information into data frame
 # step 1: create 4 lists
 # step 1a: execute loop & append to empty lists
@@ -69,6 +75,7 @@ a1 = []
 a2 = []
 a3 = []
 a4 = []
+a5 = []
 
 
 # step 1a
@@ -77,6 +84,10 @@ for d in bkk['results']:
     a2.append(d['geometry']['location']['lat'])
     a3.append(d['geometry']['location']['lng'])
     a4.append(d['vicinity'])
+    try:
+        a5.append(d['plus_code']['compound_code'])
+    except:
+        a5.append("none")
 
 # step 2
 table = dict()
@@ -86,6 +97,7 @@ table['name'] = a1
 table['lat'] = a2
 table['lng'] = a3
 table['vicinity'] = a4
+table['city'] = a5
 
 # step 3
 df_table = pd.DataFrame(table)
