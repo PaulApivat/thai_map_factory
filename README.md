@@ -12,7 +12,13 @@ Using Google Maps API to locate factories in Thailand
 
 To see if we can build a proxy PRTR dataset for Thailand.
 
-### Phase 1
+### Phase 1: Build a Prototype & Get Feedback
+
+**Rationale**: Thailand doesn't have a system or database on environment and hazardous substances. Therefore information is not disclosed to the public. Such a database is called a Pollutant Release and Transfer Register (PRTR).
+
+Thailand has been trying to create one since 1997. Official channels are not working.
+
+Creating a PRTR is a powerful systems leverage point. We introduce information to the system, establishing negative feedback loops at a faster pace. We can alter polluting behaviors.
 
 ### Phase 2
 
