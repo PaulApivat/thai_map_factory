@@ -20,6 +20,15 @@ Thailand has been trying to create one since 1997. Official channels are not wor
 
 Creating a PRTR is a powerful systems leverage point. We introduce information to the system, establishing negative feedback loops at a faster pace. We can alter polluting behaviors.
 
+**Goal**: Build a proxy PRTR dataset for Thailand
+
+**Prototype**: Visualizing the location of all 70+ K factories in Thailand under "factory" and "chemical" and other substances from Google Places API. Juxtapose with AQI data. Talk to Thai Clean Air Network reps about progress made on PRTR. The assumptions to test are, whether we can access Google Places API locate factories visually on a map. Juxtapose, with AQI - get feedback from domain experts.
+
+> Google Places API
+> Transform & Clean data
+> Visualize in R {maps} package
+> Get some feedback from Thai Clean Air Network / Circular Design Lab ([meetup](https://www.facebook.com/events/264907715194533?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_id=1615958630995084&notif_t=plan_user_invited&ref=notif))
+
 ### Phase 2
 
 ## Code, Libraries and Resources Used
@@ -39,6 +48,7 @@ Creating a PRTR is a powerful systems leverage point. We introduce information t
 4. Most comprehensive Lat/Long info for Thailand courtesy of [Spicydog](https://github.com/spicydog/thailand-province-district-subdistrict-zipcode-latitude-longitude)
 5. Thai Zip Code latitude and longitude JSON [link](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude/blob/master/data.json)
 6. Thai Lat / Long data in xlsx [data.go.th](https://data.go.th/th/dataset/item_c6d42e1b-3219-47e1-b6b7-dfe914f27910)
+7. Circular Design Lab Sessions medium post by [Courtney Savie Lawrence](https://medium.com/age-of-awareness/from-2-5pm-to-zero-in-thailand-why-air-pollution-and-covid-19-emergency-politics-require-us-to-8bd6a951127f)
 
 ### Python
 
@@ -66,6 +76,13 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.867052
 ### Coordinates for Thai Cities
 
 For initial prototyping, this is a small 16 city sample from [LatLong.net](https://www.latlong.net/category/cities-221-15.html)
+
+### Transform Data
+
+1. Query Google Places API - save results in separate json files (only select cities for the prototype)
+2. Transform json to dataframe
+3. Clean data
+4. Visualize on Map
 
 ## EDA
 
