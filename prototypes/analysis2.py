@@ -57,3 +57,6 @@ table['city'] = a5
 
 # step 3
 df_table = pd.DataFrame(table)
+
+# write csv
+# df_table.to_csv("factory.csv")
