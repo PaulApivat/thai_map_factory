@@ -16,7 +16,7 @@ factory %>%
 
 word('P4M6+FV San Kamphaeng, San Kamphaeng District, Chiang Mai', -2)
 
-# Extract last two words from sentence
+# Extract last two words from sentence ----
 # https://rdrr.io/cran/stringr/man/word.html
 
 word(unlist(factory$city),start = -2, end = -1)
@@ -27,3 +27,16 @@ factory %>%
     ) %>%
     view()
 
+
+
+
+# Maps Package ----
+library(maps)
+
+world.map <- map_data("world")
+
+THAI.map <- world.map %>% filter(region == "Thailand")
+
+THAI.map %>%
+    ggplot() + 
+    geom_map(map = THAI.map, aes(x = long, y = lat, map_id = region), fill = "white", color = "black")
