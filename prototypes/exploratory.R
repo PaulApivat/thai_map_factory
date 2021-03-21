@@ -41,5 +41,13 @@ THAI.map <- world.map %>% filter(region == "Thailand")
 # visualize THAI.map + city.map
 THAI.map %>%
     ggplot() + 
-    geom_map(map = THAI.map, aes(x = long, y = lat, map_id = region), fill = "white", color = "black") +
-    geom_point(data = city.map, aes(x = long, y = lat, color = "red"), alpha = 0.9)
+    geom_map(map = THAI.map, aes(x = long, y = lat, map_id = region), fill = "#F0F8FF", color = "black") +
+    geom_point(data = city.map, aes(x = long, y = lat, color = "red"), alpha = 0.5, size = 2) +
+    theme_minimal() +
+    labs(
+        title = "Prototype: Coordinates of 305 Thai Chemical Factories",
+        subtitle = "Google Places API"
+    )
+    
+    
+    
