@@ -82,11 +82,12 @@ For initial prototyping, this is a small 16 city sample from [LatLong.net](https
 1. Query Google Places API - save results in separate json files (only select cities for the prototype)
 2. Transform json to dataframe
 3. Clean data
-4. Visualize on Map
 
 ## EDA
 
 ### Visualization
+
+4. [Visualize on Map](https://github.com/PaulApivat/thai_map_factory/blob/main/png/thai_factories.png)
 
 ## Analysis
 
